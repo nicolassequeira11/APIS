@@ -852,6 +852,60 @@
                 "media/image/doha/doha-1.jpg",
                 "media/image/doha/doha-2.jpg"
             ]
+        },
+        {
+            "id": 2010,
+            "name": "Gran Japón 10 días",
+            "country": "Japón",
+            "citys": "Tokyo, Osaka, Nara, Kyoto, Nagoya, Magome, Tsumago, Takayama, Shirakawago, Hakone",          
+            "region": "Asia",
+            "type": "avion",
+            "description": "Prepárate para embarcarte en un viaje inolvidable a Japón, una tierra de contrastes donde la tradición se fusiona con la innovación. Nuestro paquete de viaje te llevará a través de las ciudades más emblemáticas y los paisajes naturales más impresionantes de este fascinante país.",
+            "date": "5 de Octubre",
+            "days": "9 noches",
+            "price": "3970",
+            "priceType": "Por persona en base doble",
+            "includes": [
+                "Asistencia a la llegada en el aeropuerto por personal de habla hispana.",
+                "Traslados de llegada y salida del aeropuerto principal.",
+                "9 noches de alojamiento en los hoteles indicados.",
+                "Régimen alimenticio según opción de itinerario elegido.",
+                "Visitas de Osaka, Nara, Kyoto, Magome, Tsumago, Takayama, Shirakawago, Hakone, Tokyo según itinerario.",
+                "Visita a Hiroshima y Miyajima sólo en la opción SI",
+                "Ticket de tren bala "Shinkansen" Nagoya - Odawara en clase turista.",
+                "Ticket de tren bala Nozomi Kyoto-Nagoya en clase turista.",
+                "Entradas a los lugares de interés, según itinerario.",
+                "Seguro de Viaje (coberturas de acuerdo a nuestra web).",
+                "Servicio de Asistencia telefónica 24 HORAS.",
+                "Visita a Nara.",
+                "Paseo en barco Lago Ashi.",
+                "Bebidas no incluidas en las comidas.",
+                "Visita de Hiroshima y Miyajima, excepto en la opción -SI",
+                "Propinas para guía, conductor, etc. no incluidas.",
+                "Tasas hoteleras no incluidas.",
+                "Visado no incluido.",
+                "No incluido ningún otro servicio no especificado en el apartado de Incluye o Valores Añadidos."
+            ],
+            "no-includes": [
+                
+            ],
+            "itinerary": [
+                "<strong>Día 1: TOKYO - OSAKA</strong><br> Llegada a Narita donde será recibido por un asistente de habla española, Entrega de billetes de tren. "Narita Express" a Shinagawa y continuación en tren bala Nozomi a Osaka. Llegada y recepción por asistente de habla española y traslado al hotel, resto del tiempo libre y alojamiento.<br>",
+                "<strong>Día 2: OSAKA - NARA - KYOTO</strong><br> Desayuno. A las 09.00 hrs reunión en el lobby y comienza la visita de la ciudad, con guía de habla hispana para visitar el Castillo de Osaka, con una increíble torre principal, murallas, fosos y torres de defensa. En los meses de marzo y abril se puede disfrutar de los 600 cerezos en flor que adornan sus jardines. Después de la visita, salida hacia Nara, una de las ciudades más antiguas de Japón con maravillosas construcciones como el Templo Budista de Todaiji y su enorme Buda Gigante y el Parque de los Ciervos Sagrados. Almuerzo en un restaurante local. Por la tarde salida a Kyoto, en el camino visita del Santuario Fushimi Inari, el principal Santuario Sintoísta de Japón dedicado al espíritu de Inari (Diosa del arroz) y conocido por los miles de toriis (arco tradicional japonés) que marcan el camino hacia el santuario. Tras la visita traslado al hotel. Alojamiento.<br>",
+                "<strong>Día 3: KYOTO</strong><br> Desayuno. Salida con guía de habla hispana para visitar la antigua capital de Kyoto, comenzaremos con la visita del Castillo de Nijo, el que fue la residencia del primer emperador Shogun del periodo Edo, también visitaremos el Templo de oro de Kinkaku-ji, cuyos tonos dorados se reflejan sobre las aguas de un estanque y está rodeado de una vegetación exquisita. A continuación, el Santuario Shintoísta de Heian. Almuerzo en restaurante local. La visita acaba en el restaurante. Recomendamos visitar opcionalmente o por su cuenta el histórico barrio de Gion , donde maikos y geishas ataviadas con bellísimos kimonos trabajan en casas de té .Regreso al hotel por cuenta propia. Alojamiento.<br>",
+                "<strong>Día 4: KYOTO</strong><br> Desayuno. Día libre. Aproveche para conocer esta ciudad que cuenta con 17 monumentos que fueron registrados en la lista del Patrimonio de la Humanidad en 1994. También podrá realizar una excursión (opcional) a Hiroshima con almuerzo incluido, que se realiza en tren bala (Shinkansen) para conocer el Parque Conmemorativo de la Paz, la Cúpula de la Bomba Atómica y en Miyajima el Santurario Shintoísta de Itsukushima. (Visita incluida sólo en la opción -SI). Alojamiento. (Es necesario preparar un equipaje de mano para 2 noches, las maletas se trasladan al día siguiente por la mañana directamente al hotel en Tokyo).<br>",
+                "<strong>Día 5: KYOTO - NAGOYA - MAGOME - TSUMAGO - TAKAYAMA</strong><br> Desayuno. Entrega del equipaje que se transporta separadamente en camión al hotel en Tokyo. Temprano traslado hasta la estación de tren donde tomaremos el tren bala (Shinkansen) de Jr. Nozomi hasta Nagoya (el trayecto se realiza sin guía). Llegada a la estación de tren de Nagoya y parada para visitar con guía de habla hispana los históricos pueblos de Magome y Tsumago en plena ruta Nakasendo, uno de los principales caminos desarrollados durante el periodo Edo y que aquí aún se conserva. El Almuerzo será tipo picnic. Continuación hasta Takayama por carretera, el que fuera una vez el centro neurálgico de los artesanos, granjeros y mercaderes, y el barrio que visitaremos de Sanmachi conserva este legado de la era Edo, sus calles con casas de dos pisos de madera oscura donde la planta baja era la tienda y la de arriba la residencia. Encontraremos artesanía tradicional y restaurantes que ofrecen platos exquisitos hechos según la tradición japonesa. Llegada al hotel. Cena y Alojamiento.",
+                "<strong>Día 6: TAKAYAMA - SHIRAKAWAGO - NAGOYA - HAKONE</strong><br> Desayuno. A las 07:45 horas salida con el guía de habla hispana a Shirakawago para visitar sus casas tradicionales Gassho-Zukiri, casas típicas del Japón rural de la época feudal, su nombre significa “palmas de las manos juntas para rezar” debido a que sus tejados tienen una gran inclinación para soportar las intensas nevadas de los inviernos. Almuerzo en un restaurante local. Traslado a la estación de Nagoya, salida en tren bala hasta Odawara (sin guía). Llegada a Odawara y traslado al hotel en Hakone. Cena y Alojamiento.",
+                "<strong>Día 7: HAKONE - TOKYO</strong><br> Desayuno. A las 09:00 horas, reunión en el lobby y salida con guía de habla hispana para visitar el Parque Nacional de Hakone: un recorrido en barco por el lago Ashi donde se disfrutará de una magnífica vista del Mt. Fuji (si el tiempo lo permite) y subida en teleférico (por condiciones climatológicas, estas visitas pueden ser sustituidos por otras excursiones). Almuerzo en un restaurante local y salida a Tokyo. A la llegada a Tokyo , visita de la Torre de Tokyo, la obra de arquitectura Japonesa más conocida y visitada, inspirada en el estilo de la Torre Eiffel, inicialmente fue concebida como torre de comunicaciones y actualmente es un símbolo de renacimiento del país como potencia económica mundial. Alojamiento.",
+                "<strong>Día 8: TOKYO</strong><br> Desayuno. A las 08.30hrs salida con el guía de habla hispana para adentrarnos en el mundo antiguo de Japón. Comenzamos por el templo budista Asa Kusa Kannon o Senso-ji el cual inmerso dentro del barrio de Asakusa, lugar de peregrinación y reunión , cuenta con varios edificios, desde la puerta Kamirarimon hasta el salón Komagatado A la salida del Templo daremos un paseo por la calle comercial Nakamise con sus 90 puestos de souvenirs, artículos tradicionales y exóticos snacks Japoneses. Continuaremos con una visita al Santuario Sintoísta de Meiji, dedicado al primer emperador del Japón moderno, el emperador Meiji y su esposa, la emperatriz Shoken. Continuaremos la visita hasta el barrio de Ginza, el distrito comercial más famoso de Japón con amplias avenidas y numerosas tiendas y cafés. Almuerzo incluido en un restaurante local. Regreso al hotel por su cuenta. Tarde libre para visitar opcionalmente o por cuenta propia los barrios típicos de Tokyo como Harajuku Takeshita Dori, Omotesando y Shibuya. Alojamiento.",
+                "<strong>Día 9: TOKYO</strong><br> Desayuno. Día libre a su disposición. Puede realizar una visita opcional a la ciudad de Nikko, el lago Chuzenji y la cascada Kegon. En Nikko se visita el Santuario de Toshogu en cuyo complejo se encuentra el famoso dintel con los tres monos que predican "no oigas el mal, no digas el mal y no veas el mal". Este conjunto de Santuarios y Templos fue declarado Patrimonio de la Humanidad por la Unesco en 1999. Alojamiento.",
+                "<strong>Día 10: TOKYO</strong><br> Desayuno. La habitación será desocupada antes de las 10.00hrs. A la hora prevista traslado al aeropuerto Internacional de Narita/Haneda en transporte regular con asistente de habla hispana para salir en su vuelo de salida de Japón. (El traslado está sujeto a los horarios del transporte público, en caso de que la salida de su vuelo fuera entre las 01.00h y las 9.30h, tendrá un suplemento de 100.-Usd por persona).Fin de nuestros servicios."
+            ],
+            "image": "media/image/japon-1.jpg",
+            "imageBanner": [
+                "media/image/japon/japon-1.jpg",
+                "media/image/japon/japon-2.jpg"
+            ]
         }
     ]
 }
