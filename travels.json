@@ -763,6 +763,43 @@
                 "media/image/alemania-este-europa/alemania-este-europa-1.jpg",
                 "media/image/alemania-este-europa/alemania-este-europa-2.jpg"
             ]
+        },
+        {
+            "id": 2000,
+            "name": "Beijing",
+            "country": "China",
+            "citys": "Beijing",          
+            "region": "Asia",
+            "type": "avion",
+            "description": "Bienvenido a un viaje que te llevará al corazón de la milenaria China, a la enigmática y vibrante ciudad de Beijing. Nuestro paquete de viaje te brinda la oportunidad de sumergirte en una experiencia única, llena de historia, cultura y maravillas modernas que te dejarán sin aliento.",
+            "date": "5 de Octubre",
+            "days": "3 noches",
+            "price": "640",
+            "priceType": "Por persona en base doble",
+            "includes": [
+                "Guía acompañante de habla hispana",
+                "Guías locales en español en las visitas indicadas en el itinerario",
+                "Desayuno diario, Buffet (en la mayoría de los hoteles)",
+                "Traslados de llegada y salida del aeropuerto principal. Consulte suplemento para traslados desde/hacia la estación de tren y/o puerto.",
+                "Almuerzos y cenas indicadas en el itinerario",
+                "Modernos autocares dotados con mejores medidas de seguridad",
+                "Seguro de Viaje (coberturas de acuerdo a folleto)",
+                "Servicio de Asistencia telefónica 24 HORAS."
+            ],
+            "no-includes": [
+                "Vuelo a Beijing"
+            ],
+            "itinerary": [
+                "<strong>Día 1: BEIJING</strong><br> Llegada a Beijing. Asistencia y traslado al hotel. Beijing es una de las ciudades más antiguas y grandes del mundo, cuenta con una fascinante mezcla de tradición y modernidad, desde palacios imperiales a modernos centros comerciales. Como capital cultural y política del país, es una parte esencial de cualquier itinerario en China. Resto del día libre. Alojamiento.<br>",
+                "<strong>Día 2: BEIJING (Ciudad Prohibida)</strong><br> Desayuno. Salida para realizar la visita de esta fascinante ciudad: el Palacio Imperial, declarado Patrimonio de la Humanidad por la Unesco y más conocido como la “Ciudad Prohibida” es un complejo de más de 980 edificios de estilo tradicional, protegidos por una muralla púrpura y un foso, y durante siglos fue un recinto prohibido para los ciudadanos, solo tenían acceso el emperador, sus familiares directos, guardias y sirvientes. Al sur del Palacio Imperial, veremos la Plaza de Tian An Men, construida en la dinastía Ming tras la proclamación de la República Popular de China, y de dimensiones colosales es una de las más grandes del mundo y ha sido escenario de diferentes acontecimientos históricos. A continuación visita del Palacio de Verano y su extenso parque, utilizado de manera exclusiva en tiempos de la Dinastía Qing por los miembros de la Casa Imperial. Este palacio de más de 290 hectáreas, contiene un gran lago y en torno a él se encuentran infinidad de templos, palacios y jardines que son un tranquilo refugio para el paseante. Almuerzo. Tarde libre. Alojamiento.<br>",
+                "<strong>Día 3: BEIJING (Gran Muralla)</strong><br> Desayuno. Salida de Beijing para visitar una de las nuevas siete maravillas del mundo moderno, la Gran Muralla China, comenzada a construir como protección ante la invasión de las tribus nómadas del norte, fue entre los siglos XV y XVI cuando los emperadores Ming hicieron la muralla continua de 7.000 Km, actualmente atraviesa un total de siete provincias. Almuerzo en restaurante local. Por la tarde regreso a la ciudad y parada para tomar fotos del exterior de los innovadores desafíos arquitectónicos creados para las Olimpiadas de Beijing de 2008: El Estadio Nacional o “Nido del Pájaro” y El Centro Nacional de Natación o “Cubo del Agua”, dos ejemplos asombrosos de arquitectura inspirada en la naturaleza. Cena de bienvenida, donde degustaremos el delicioso “pato laqueado” de Beijing. Alojamiento.<br>",
+                "<strong>Día 4: BEIJING</strong><br> Desayuno. Traslado al aeropuerto para tomar el vuelo a su siguiente destino. Fin de nuestros servicios.<br>"
+            ],
+            "image": "media/image/beijing-1.jpg",
+            "imageBanner": [
+                "media/image/beijing/beijing-1.jpg",
+                "media/image/beijing/beijing-2.jpg"
+            ]
         }
     ]
 }
