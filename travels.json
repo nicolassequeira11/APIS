@@ -777,14 +777,21 @@
             "price": "640",
             "priceType": "Por persona en base doble",
             "includes": [
-                "Guía acompañante de habla hispana",
-                "Guías locales en español en las visitas indicadas en el itinerario",
-                "Desayuno diario, Buffet (en la mayoría de los hoteles)",
-                "Traslados de llegada y salida del aeropuerto principal. Consulte suplemento para traslados desde/hacia la estación de tren y/o puerto.",
-                "Almuerzos y cenas indicadas en el itinerario",
-                "Modernos autocares dotados con mejores medidas de seguridad",
-                "Seguro de Viaje (coberturas de acuerdo a folleto)",
-                "Servicio de Asistencia telefónica 24 HORAS."
+                "Asistencia a la llegada y salida en el aeropuerto por personal de habla hispana.",
+                "Traslados de llegada y salida del aeropuerto principal.",
+                "3 noches de alojamiento en los hoteles indicados.",
+                "Régimen alimenticio según opción de itinerario elegido.",
+                "Visitas en Beijing según itinerario.",
+                "Guías locales de habla hispana durante las visitas incluidas en el itinerario.",
+                "Entradas a los lugares de interés, según itinerario.",
+                "Seguro de Viaje (coberturas de acuerdo a nuestra web).",
+                "Servicio de Asistencia telefónica 24 HORAS.",
+                "Degustación de Pato laqueado.",
+                "Bebidas no incluidas en las comidas.",
+                "Visado no incluido.",
+                "Propinas para guía, conductor, etc. no incluidas.",
+                "Tasas hoteleras no incluidas.",
+                "No incluido ningún otro servicio no especificado en el apartado de Incluye o Valores Añadidos."
             ],
             "no-includes": [
                 "Vuelo a Beijing"
@@ -799,6 +806,51 @@
             "imageBanner": [
                 "media/image/beijing/beijing-1.jpg",
                 "media/image/beijing/beijing-2.jpg"
+            ]
+        },
+        {
+            "id": 2005,
+            "name": "Doha",
+            "country": "Qatar",
+            "citys": "Doha",          
+            "region": "Asia",
+            "type": "avion",
+            "description": "Te invitamos a un viaje fascinante a la vanguardia del lujo y la modernidad en Doha, la capital de Qatar. Este paquete de viaje te sumergirá en una experiencia de clase mundial, donde la tradición se encuentra con la innovación en medio del impresionante paisaje del desierto.",
+            "date": "5 de Octubre",
+            "days": "4 noches",
+            "price": "1740",
+            "priceType": "Por persona en base doble",
+            "includes": [
+                "Asistencia a la llegada en el aeropuerto por personal de habla hispana.",
+                "Traslados de llegada y salida del aeropuerto principal.",
+                "4 noches de alojamiento en los hoteles indicados.",
+                "Régimen alimenticio según opción de itinerario elegido.",
+                "Visita de Qatar, según itinerario.",
+                "Safari 4x4 por el desierto.",
+                "Guía local de habla hispana durante las visitas indicadas en el itinerario, excepto para el safari 4x4 que será con guía de habla inglesa.",
+                "Entradas a los lugares de interés, según itinerario.",
+                "Seguro de Viaje (coberturas de acuerdo a nuestra web).",
+                "Servicio de Asistencia telefónica 24 HORAS.",
+                "Una botella de agua mineral por persona y día.",
+                "Propinas para guía, conductor, etc. no incluidas.",
+                "Tasas hoteleras no incluidas.",
+                "Visado no incluido.",
+                "No incluido ningún otro servicio no especificado en el apartado de Incluye o Valores Añadidos."
+            ],
+            "no-includes": [
+                
+            ],
+            "itinerary": [
+                "<strong>Día 1: DOHA</strong><br> Llegada al aeropuerto internacional de Hamad. Encuentro con el asistente de habla hispana y traslado al hotel en Doha. Alojamiento.<br>",
+                "<strong>Día 2: DOHA</strong><br> Desayuno. Encuentro con nuestro guía para realizar una excursión de medio día en Doha, ciudad de contrastes. Comenzaremos en el nuevo Museo Nacional para conocer su historia desde los inicios hasta la actualidad. A continuación, recorreremos la parte más tradicional de Doha en Souq Waqif Heritage Market donde se ubica el zoco Falcon conocido por ser el zoco de las especias; y el Gold Souk, las galerías de arte. Seguiremos hacia los lugares más conocidos y modernos de la ciudad. Haremos una parada fotográfica en el paseo marítimo de Corniche, veremos rascacielos en el distrito West Bay como la torre de Doha, la torre Tornado y los edificios gubernamentales. Visitaremos el pueblo cultural de Katara donde se encuentran las mezquitas, el anfiteatro y las esculturas. Para finalizar, The Pearl Qatar, Qanat Quartier donde el encanto veneciano se encuentra con la elegancia árabe. Regreso al hotel y resto del día libre. Alojamiento.<br>",
+                "<strong>Día 3: DOHA</strong><br> Desayuno. Por la mañana nos dirigiremos hacia el sur de Qatar para comenzar nuestra aventura en 4x4. Haremos una parada en Sealine Beach Resort antes de comenzar el impresionante Dune Bashing donde los experimentados conductores de 4x4 nos llevarán a la maravillosa zona de mar interior en las proximidades de las fronteras de Arabia Saudita a través de las dunas. Nuestro recorrido finaliza en Desert Camp, un campamento equipado con carpas de estilo beduino, alfombras con asientos tradicionales y agua dulce para duchas y baños, ubicado a orillas de playas de agua cristalina donde puede disfrutar de un baño, jugar al voleibol en la playa o relajarse mientras disfruta de las vistas. Mientras tanto, el chef nos preparará la barbacoa para el almuerzo. Regreso al hotel y resto de la tarde libre. Alojamiento.<br>",
+                "<strong>Día 4: DOHA</strong><br> Desayuno. Encuentro con el asistente para comenzar el día de compras (máximo 8 horas de duración). El recorrido comienza en uno de los centros comerciales más grandes, Mall of Qatar. Este glamuroso centro comercial está situado junto al estadio de la Copa Mundial de Fútbol FIFA 2022. El centro comercial alberga más de 400 tiendas, incluidas boutiques de lujo y las principales marcas mundiales. Tiene gran variedad de tiendas de alimentos, bebidas y entretenimiento. Tendrá tiempo libre para realizar sus compras. A continuación, iremos a Doha Festival City Mall, que es el lugar de entretenimiento, moda y restaurantes más grande de Qatar y cuenta con numerosas marcas locales e internacionales, incluidos algunos de los que debutaron en Qatar como Harvey Nichols, Charlotte Tilbury, Kiehl’s, Dior Beauty Butique y ACE. El recinto también alberga el único Ikea del país y varios parques temáticos como el “Angry Bird” ya abierto y otros dos con apertura en verano de 2022, Snow Park y Virtuosity. Podrá disfrutar de estos parques, si así lo desea, por su cuenta. Resto del día libre. Alojamiento.<br>",
+                "<strong>Día 5: DOHA</strong><br> Desayuno. Mañana libre hasta la hora del traslado al aeropuerto internacional de Hamad con asistente de habla hispana. Fin de nuestros servicios."
+            ],
+            "image": "media/image/doha-1.jpg",
+            "imageBanner": [
+                "media/image/doha/doha-1.jpg",
+                "media/image/doha/doha-2.jpg"
             ]
         }
     ]
