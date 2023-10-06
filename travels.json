@@ -815,6 +815,48 @@
             ]
         },
         {
+            "id": 1520,
+            "name": "Paris y Londres",
+            "country": "Francia, Inglaterra",
+            "citys": "Paris, Londres",          
+            "region": "Europa",
+            "type": "avion",
+            "description": "Este paquete de viaje te sumergirá en la cultura, la historia y la belleza de dos de las ciudades más emblemáticas de Europa: París y Londres. Desde la majestuosidad de la Torre Eiffel hasta el encanto de los barrios de Londres, esta aventura te llevará a través de las maravillas de dos metrópolis europeas.",
+            "date": "5 de Octubre",
+            "days": "7 noches",
+            "price": "1570",
+            "priceType": "Por persona en base doble",
+            "includes": [
+                "Guía acompañante de habla hispana.",
+                "Guías locales en español en las visitas indicadas en el itinerario",
+                "Desayuno diario, Buffet (en la mayoría de los hoteles)",
+                "Producto: Selección",
+                "Traslados de llegada y salida del aeropuerto principal. Consulte suplemento para traslados desde/hacia la estación de tren y/o puerto.",
+                "Almuerzos y cenas indicadas en el itinerario.",
+                "Modernos autocares dotados con mejores medidas de seguridad",
+                "Seguro de Viaje (coberturas de acuerdo a folleto)",
+                "Servicio de Asistencia telefónica 24 HORAS."
+            ],
+            "no-includes": [
+                
+            ],
+            "itinerary": [
+                "<strong>Día 1: CIUDAD DE ORIGEN - PARIS</strong><br> Llegada a París. traslado al hotel. Al final de la tarde se reunirá con su guía acompañante en la recepción del hotel. Tiempo libre o si lo desea podrá realizar un Tour opcional de París Iluminado (incluido en PAQUETE EXCURSIONES y T.I.), donde podremos descubrir una ciudad considerada por muchos la más bella del mundo. Alojamiento.<br>",
+                "<strong>Día 2: PARIS</strong><br> Desayuno. Visita panorámica con guía local: las Plazas de la Concordia y de la Opera, los Campos Elíseos, el Arco de Triunfo, el barrio de St-Germain, los grandes bulevares, etc. Resto del día libre en que si lo desea puede realizar alguna de nuestras visitas opcionales como un recorrido por las llamadas Galerías de París y el Museo del perfume o la visita al Museo del Louvre, donde conoceremos una de las mejores colecciones artísticas del mundo, que van desde las obras maestras de la antigüedad, como la Venus de Milo, hasta la pirámide de acero y cristal realizada por el arquitecto chino-estadounidense Ieo Ming Pei, que da acceso al museo. Por la noche, asistencia opcional a un cabaret parisino Alojamiento.<br>",
+                "<strong>Día 3: PARIS</strong><br> Desayuno. Día libre para visitar alguno de sus muchos museos o pasear por los diferentes barrios de la capital del Sena.Si lo desea podrá realizar una excursión opcional para conocer el Palacio de Versalles (incluida en PAQUETE EXCURIONES y T.I.), símbolo de la monarquía francesa en su esplendor y modelo para las residencias reales de toda Europa. Descubriremos en nuestra visita guiada, además de sus maravillosos jardines, las salas más célebres del palacio como la famosa Galería de los Espejos, la capilla real, los aposentos privados, etc. En la tarde, realizaremos una visita opcional, en la que además de conocer alguno de los lugares mas monumentales de la ciudad, podrá disfrutar de Paris desde otro punto de vista, realizando un bonito paseo en barco por el Sena en el que dejaremos a nuestro paso algunos de los lugares más emblemáticos de la capital francesa. Alojamiento.<br>",
+                "<strong>Día 4: PARIS</strong><br> Desayuno. Día libre para visitar alguno de sus muchos museos, conocer alguno de los parques de la ciudad, recorrer las calles de la moda o pasear por los diferentes barrios de la capital del Sena, desde el tradicional barrio de Le Marais, donde se encuentra la bellísima plaza de los Vosgos hasta el revolucionario barrio de las finanzas de La Defense, donde han dejado su sello los más importantes arquitectos del siglo XX y XXI en sus imponentes construcciones, donde destaca el Gran Arco de la Defense, diseñado por el arquitecto Otto Von Spreckelsen, y que se inauguró en 1989 para conmemorar el bicentenario de la Revolución Francesa. Alojamiento.<br>",
+                "<strong>Día 5: PARÍS - LONDRES</strong><br> Desayuno. Salida hacia Calais y cruce del Canal de la Mancha en ferry. Llegada a Londres y tarde libre para recorrer lugares tan emblemáticos como Oxford Str, Knightsbridge Road, Cena. Si lo desea podrá realizar una excursión opcional con guía local, London by Night (incluida en PAQUETE EXCURISONES y T.I.) en el que tomará un primer contacto con la noche londinense, pasando por las zonas más representativas: el Tamesis, Picadilly, Soho, Puente de la Torre, Torre de Londres, Catedral de San Pablo, la City, ciudad financiera, etc.. Alojamiento.<br>",
+                "<strong>Día 6: LONDRES</strong><br> Desayuno. Visita panorámica con guía local. Recorrido en bus para conocer los principales ítems de esta fascinante ciudad. South Kensington y Knightsbridge, donde encontramos el Royal Albert Hall, el memorial del Principe Alberto, y dos espectaculares museos: el de Ciencias Naturales y el Victoria and Albert, muy cerca de los conocidos almacenes Harrods, todo ello en el entorno del auténtico pulmón de la ciudad que es Hyde Park. Seguimos nuestro recorrido por Chelsea con su exclusivo comercio, Belgravia barrio de las embajadas y el cinematográfico Mayfair, Picadilly Circus y Trafalgar, renombradas plazas. El 10 de Downing Street, ya en Westminster podremos fotografiar: la Abadía, las casas del Parlamento y el famoso Big Ben, para terminar en el Palacio de Buckingham, etc. Resto del día libre para seguir conociendo la ciudad o si lo desea podrá realizar una excursión opcional acompañados de un guía local por barrios tan renombrados como Bloomsbury o Covent Garden además de visitar el interior del Museo Británico visita obligada en cualquier viaje a Londres. Alojamiento.<br>",
+                "<strong>Día 7: LONDRES</strong><br> Desayuno. Día libre para seguir disfrutando de Londres, recorriendo sus zonas comerciales o visitando alguno de sus museos o si lo desea podrá realizar una excursión opcional con guía local a Windsor y Oxford (incluida en PAQUETE DE EXCURSIONES y T.I). En esta excursión tendremos la oportunidad de abandonar Londres, junto a nuestro guía local, para dirigirnos hacia la campiña inglesa y al romántico Valle del Támesis, para llegar a Windsor, donde podremos descubrir una ciudad especial con animadas calles de trazado medieval, llenas de tiendas, pubs pintorescos, y casas de época rodeando la plaza Central, donde podremos admirar el majestuoso exterior del Castillo de Windsor. Seguidamente nos dirigiremos la ciudad universitaria de Oxford, donde además de visitar el interior de uno de sus colleges (residencias universitarias) recorreremos el centro de la ciudad donde se encuentran sus rincones más emblemáticos como el Puente de los Suspiros, por su parecido con el del Palacio Ducal de Venecia, la Iglesia de Saint Mary, Conmarket, principal arteria comercial de la ciudad, con edificios de indudable carácter medieval y High Street, a lo largo de la cual se siente ese espíritu universitario de Oxford que caracteriza a la ciudad, ya que en ella se encuentran algunos de los colleges. Regreso a Londres. Alojamiento.<br>",
+                "<strong>Día 8: LONDRES - CIDADE DE DESTINO</strong><br> Café da manhã e no horário combinado previamente, nossa equipe dará assistência para a saída do hotel e o transporte ao aeroporto para embarque de volta ao Brasil.<br>"
+            ],
+            "image": "media/image/paris-londres-1.jpg",
+            "imageBanner": [
+                "media/image/paris-londres/paris-londres-1.jpg",
+                "media/image/paris-londres/paris-londres-2.jpg"
+            ]
+        },
+        {
             "id": 2005,
             "name": "Doha",
             "country": "Qatar",
