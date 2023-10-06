@@ -906,6 +906,50 @@
                 "media/image/japon/japon-1.jpg",
                 "media/image/japon/japon-2.jpg"
             ]
+        },
+        {
+            "id": 2015,
+            "name": "Seul con zona desmilitarizada",
+            "country": "Corea del Sur",
+            "citys": "Seul",          
+            "region": "Asia",
+            "type": "avion",
+            "description": "Este paquete de viaje te llevará a explorar la fascinante Corea del Sur, un país que combina una rica herencia cultural con una modernidad sorprendente. Desde la vibrante ciudad de Seúl hasta la histórica Zona Desmilitarizada (DMZ), esta aventura te permitirá experimentar la diversidad y la singularidad de Corea del Sur.",
+            "date": "4 de Octubre",
+            "days": "9 noches",
+            "price": "2090",
+            "priceType": "Por persona en base doble",
+            "includes": [
+                "Traslados de llegada y salida del aeropuerto principal.",
+                "4 noches de alojamiento en los hoteles indicados.",
+                "Régimen alimenticio según opción de itinerario elegido.",
+                "Visita de medio día con guía de la Zona Desmilitarizada (DMZ) según itinerario.",
+                "Visita de Seúl incluyendo Palacio Real Gyeongbokgung, Templo Jogyesa, distrito de Bukchon, y Museo Nacional de Corea según itinerario.",
+                "Guías locales de habla hispana durante las visitas incluidas en el itinerario.",
+                "Seguro de Viaje (coberturas de acuerdo a nuestra web).",
+                "Servicio de Asistencia telefónica 24 HORAS.",
+                "Tour Exclusivo Clientes Special Tours.",
+                "Propinas para guía, conductor, etc. no incluidas.",
+                "Tasas hoteleras no incluidas.",
+                "Visado no incluido.",
+                "Maleteros en hoteles no incluidos.",
+                "No incluido ningún otro servicio no especificado en el apartado de Incluye o Valores Añadidos."
+            ],
+            "no-includes": [
+                
+            ],
+            "itinerary": [
+                "<strong>Día 1: SEUL</strong><br> Llegada al aeropuerto de Incheon, bienvenida por el conductor en la Puerta Original y traslado al hotel. Seúl es la capital de Corea desde hace 600 años. Está dividida en dos partes debido al curso del río Hangang: en la parte Norte se concentra toda la historia y cultura, mientras que la parte Sur es conocida como la zona comercial. Así se crea un contraste donde los rascacielos destacan sobre los templos budistas. Llegada al hotel y Alojamiento.<br>",
+                "<strong>Día 2: SEUL (Vista del Palacio Real Gyeongbokgung y Templo Jogyesa)</strong><br> Desayuno. Mañana libre a su disposición para pasear por la ciudad o realizar compras. Por la tarde, traslado en metro para visitar el Palacio Real Gyeongbokgung, situado al norte de la capital y construido por primera vez en el siglo XIV y luego una segunda vez en el siglo XIX. Este palacio también llamado Gran Bendecido por el Cielo es uno de los cinco palacios de la dinastía Choson (Joseon) la visita incluye el museo Folk y su colección de elementos de la vida tradicional coreana. A continuación, visitaremos el Templo Jogyesa, que es uno de los más importantes de la ciudad y el corazón de la Orden Budista Jogyesa, practicantes de la meditación Zen. Regreso al hotel y Alojamiento.<br>",
+                "<strong>Día 3: SEUL (Visita del Distrito de Bukchon y Museo Nacional de Corea)</strong><br> Desayuno. Salida en el metro de Seúl, conocido como Jihachul, hacia las principales zonas de la ciudad. Caminaremos por el distrito de Bukchon, este distrito, apodado la Aldea del Norte, alberga unas 900 casas tradicionales coreanas y promete una inmersión cultural única en la antigua Corea. Pasearemos por la calle Insadong llena de tiendas de antigüedades y galerías de arte. Almuerzo en un restaurante local. Por la tarde, visitaremos el Museo Nacional de Corea, que es el principal museo de la historia de Corea del Sur. Regreso al hotel y Alojamiento.<br>",
+                "<strong>Día 4: SEUL (Visita Zona Desmilitarizada)</strong><br> Desayuno. Salida para la excursión de medio día a la zona desmilitarizada (DMZ) . Situada a cada lado del paralelo 38, esta frontera fue establecida al final de la guerra de 1953 en la firma del armisticio de Panmunjom con el fin de separar a Corea del Norte y del Sur. Visitaremos el observatorio Dora y la estación de tren Dorasan. Descubriremos el Parque Imjingak, y el tercer túnel excavado en la roca a una profundidad de 73m y capaz de mover una división completa por hora con sus armas. Regreso a Seúl. Resto de día libre. Alojamiento.<br>",
+                "<strong>Día 5: SEUL</strong><br> Desayuno. Tiempo libre hasta el traslado al aeropuerto para tomar su vuelo de regreso o conectar con otro de nuestros itinerarios. Fin de nuestros servicios."
+            ],
+            "image": "media/image/seul-1.webp",
+            "imageBanner": [
+                "media/image/seul/seul-1.jpg",
+                "media/image/seul/seul-2.jpg"
+            ]
         }
     ]
 }
