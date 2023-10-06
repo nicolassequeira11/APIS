@@ -950,6 +950,58 @@
                 "media/image/seul/seul-1.jpg",
                 "media/image/seul/seul-2.jpg"
             ]
+        },
+        {
+            "id": 2020,
+            "name": "Filipinas: Manila y Bohol",
+            "country": "Filipinas",
+            "citys": "Manila, Tagbilaran, Isla Panglao, Bohol",          
+            "region": "Asia",
+            "type": "avion",
+            "description": "Este paquete de viaje te llevará a explorar la espectacular belleza natural de Filipinas, desde la vibrante ciudad de Manila hasta la serenidad de la isla de Bohol. Experimenta la rica cultura, las playas de arena blanca y los paisajes naturales impresionantes de este paraíso en el sudeste asiático.",
+            "date": "10 de Octubre",
+            "days": "9 noches",
+            "price": "2480",
+            "priceType": "Por persona en base doble",
+            "includes": [
+                "Asistencia a la llegada y salida en el aeropuerto por personal de habla hispana.",
+                "Traslados de llegada y salida del aeropuerto principal.",
+                "9 noches de alojamiento en los hoteles indicados.",
+                "Régimen alimenticio según opción de itinerario elegido.",
+                "Visita de Manila y Bohol según itinerario.",
+                "Guías locales de habla hispana durante las visitas.",
+                "Tickets aéreos Manila - Tagbilaran - Manila en clase turista.",
+                "Entradas a los lugares de interés, según itinerario.",
+                "Seguro de Viaje (coberturas de acuerdo a nuestra web).",
+                "Servicio de Asistencia telefónica 24 HORAS.",
+                "Almuerzo con menú degustación en un restaurante flotante mientras navega por el Río Loboc.",
+                "Bebidas no incluidas en las comidas.",
+                "Visado no incluido.",
+                "Maleteros no incluidos.",
+                "Propinas para guía, conductor, etc. no incluidas.",
+                "Tasas hoteleras no incluidas.",
+                "No incluido ningún otro servicio no especificado en el apartado de Incluye o Valores Añadidos."
+            ],
+            "no-includes": [
+                
+            ],
+            "itinerary": [
+                "<strong>Día 1: MANILA</strong><br> Llegada y asistencia en el aeropuerto por nuestro representante de habla hispana. Traslado al hotel. Resto del día libre en Manila, capital de Filipinas, situada en la isla de Luzón y que cuenta con una población de casi 2 millones de habitantes. La ciudad está ubicada en la Bahía de Manila, en el mar de China y está rodeada de paisajes volcánicos y de bosques tropicales. Alojamiento.<br>",
+                "<strong>Día 2: MANILA</strong><br> Desayuno. Recogida en el lobby del hotel para comenzar un tour por la ciudad de Manila. A su llegada a Intramuros nos montaremos en una calesa (carro de caballo) para recorrer la zona visitando la Casa Manila, una reproducción de una casa de un español en la época colonizadora. Seguidamente, visitaremos la iglesia de San Agustín, y a continuación el Fuerte Santiago, dentro de la ciudad amurallada de Intramuros. Más tarde, nos dirigiremos a Makati, Forbes Park y entraremos en el cementerio Memorial americano. De regreso, visitaremos la zona recuperada y el complejo Cultural Centro bulevar Roxas. Traslado al hotel y Alojamiento.<br>",
+                "<strong>Día 3: MANILA - TAGBILARAN - ISLA PANGLAO</strong><br> Desayuno. Traslado al aeropuerto para salir en el vuelo con destino Tagbilaran, capital de la provincia de Bohol. Bohol es la isla más tentadora de Filipinas con sus playas de arena blanca, altísimos cocoteros y aguas color turquesa que dominan esta isla filipina en la región de las Bisayas centrales. Llegada y traslado al hotel. Alojamiento.<br>",
+                "<strong>Día 4: BOHOL</strong><br> Desayuno. Iniciaremos una excursión por la isla de Bohol, donde visitaremos las famosas colinas de chocolate y conoceremos a los monos más pequeños del planeta, el Tarsier. A continuación disfrutaremos de un Almuerzo en un restaurante flotante mientras navegamos por el Río Loboc. Alojamiento.<br>",
+                "<strong>Día 5: ISLA PANGLAO</strong><br> Desayuno. Día libre que puede aprovechar para disfrutar de las impresionantes playas de la isla, disfrutar de las instalaciones del hotel o realizar excursiones opcionales. Alojamiento.",
+                "<strong>Día 6: ISLA PANGLAO</strong><br> Desayuno. Día libre que puede aprovechar para realizar excursiones opcionales como las montañas de chocolate, que son la atracción principal de la isla, situadas en el centro de Bohol, son consideradas como uno de los paisajes más originales del planeta. Formadas por más de 1200 montículos con forma de cono que ocupa una superficie de unos 50 Km2, adquieren su máximo esplendor en época seca cuando la hierba verde desaparece y adquieren ese color marrón chocolate por lo que son conocidas. Alojamiento.",
+                "<strong>Día 7: ISLA PANGLAO</strong><br> Desayuno. Día libre que puede aprovechar para disfrutar de las impresionantes playas de la isla. Alojamiento",
+                "<strong>Día 8: ISLA PANGLAO</strong><br> Desayuno. Días libre que puede aprovechar para disfrutar de las impresionantes playas de la isla, disfrutar de las instalaciones del hotel o realizar excursiones opcionales, como Las Montañas de Chocolate son la atracción principal de la isla, situadas en el centro de Bohol, y podrían considerarse como uno de los paisajes más originales del planeta. Formadas por más de 1.200 montículos con forma de cono que ocupan una superficie de unos 50 Km2, alcanza su máximo esplendor en la época seca cuando la hierva verde desaparece y adquieren ese color marrón chocolate por el cual son conocidas. Alojamiento.",
+                "<strong>Día 9: ISLA PANGLAO - TAGBILARAN - MANILA</strong><br> Desayuno. Traslado al aeropuerto de Tagbilaran para salir en el vuelo con destino Manila. Llegada y traslado al hotel. Alojamiento.",
+                "<strong>Día 10: MANILA</strong><br> Desayuno. Tiempo libre hasta la hora del traslado al aeropuerto por un asistente de habla hispana. Fin de nuestros servicios."
+            ],
+            "image": "media/image/filipinas-1.jpg",
+            "imageBanner": [
+                "media/image/filipinas/filipinas-1.jpg",
+                "media/image/filipinas/filipinas-2.jpg"
+            ]
         }
     ]
 }
