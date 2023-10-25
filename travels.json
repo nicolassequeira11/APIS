@@ -732,15 +732,15 @@
             ],
             "image": "media/image/austin-1.jpg",
             "imageBanner": [
-                "media/image/austin/austin-1.jpg",
-                "media/image/austin/austin-2.jpg"
+                "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/507000/507604-austin.jpg",
+                "https://get.wallhere.com/photo/nature-landscape-cave-lake-trees-plants-clouds-sky-rocks-water-Texas-USA-Austin-Texas-1926021.jpg"
             ],
             "gallery": [
-                "https://wallpaperaccess.com/full/1392569.jpg",
-                "https://wallpaperaccess.com/full/3597628.jpg",
-                "https://wallpaperaccess.com/full/1392579.jpg",
-                "https://wallpaperaccess.com/full/3597667.jpg",
-                "https://wallpaperaccess.com/full/3597874.jpg"
+                "https://res.cloudinary.com/simpleview/image/upload/v1646674554/clients/austin/360_Bridge_Internal_Use_Only_1975c39c-61b7-4a68-ae0b-552509f006fb.jpg",
+                "https://wallpapers.com/images/hd/texas-pictures-v3ketl0z2py2v9dz.jpg",
+                "https://wallpapercave.com/wp/wp11029319.jpg",
+                "https://wallpapercave.com/wp/wp12567627.jpg",
+                "https://wallpapercave.com/wp/wp12567649.jpg"
             ]
         },
         {
@@ -789,15 +789,15 @@
             ],
             "image": "media/image/escocia-irlanda-1.jpg",
             "imageBanner": [
-                "media/image/escocia-irlanda/escocia-irlanda-1.jpg",
-                "media/image/escocia-irlanda/escocia-irlanda-2.jpg"
+                "https://wallpapercave.com/wp/wp2107078.jpg",
+                "https://wallpapercave.com/wp/wp10583406.jpg"
             ],
             "gallery": [
-                "https://wallpaperaccess.com/full/1392569.jpg",
-                "https://wallpaperaccess.com/full/3597628.jpg",
-                "https://wallpaperaccess.com/full/1392579.jpg",
-                "https://wallpaperaccess.com/full/3597667.jpg",
-                "https://wallpaperaccess.com/full/3597874.jpg"
+                "https://wallpapercave.com/wp/wp12408450.jpg",
+                "https://wallpapercave.com/wp/wp12408625.jpg",
+                "https://wallpapercave.com/wp/wp12408628.jpg",
+                "https://wallpapercave.com/wp/wp10583397.jpg",
+                "https://wallpapercave.com/wp/wp2107091.jpg"
             ]
         },
         {
