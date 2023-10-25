@@ -348,7 +348,7 @@
                 "Seguro"
             ],
             "itinerary": [
-                "Viaje libre de itinerario."
+                "Sin itinerario."
             ],
             "image": "media/image/rio-janeiro-1.jpg",
             "imageBanner": [
@@ -522,7 +522,7 @@
                 "Traslados aeropuerto - alojamiento - aeropuerto"
             ],
             "itinerary": [
-                "Viaje libre de itinerario."
+                "Sin itinerario."
             ],
             "image": "media/image/santiago-chile-1.jpg",
             "imageBanner": [
@@ -692,7 +692,7 @@
                 "<strong>No incluye:</strong> Equipaje en bodega, traslados, visado, gastos personales, resort free de pago en destino, city tax de pago en destino"
             ],
             "itinerary": [
-                "Viaje libre de itinerario."
+                "Sin itinerario."
             ],
             "image": "media/image/miami-1.jpg",
             "imageBanner": [
@@ -735,7 +735,7 @@
                 "<strong>No incluye:</strong> Equipaje en bodega, traslados aeropuerto - oficina - aeropuerto, Environment Fee de pago en destino (Usd 9.95), generador, visado, comidas, gastos personales, campings"
             ],
             "itinerary": [
-                
+                "Sin itinerario"
             ],
             "image": "media/image/austin-1.jpg",
             "imageBanner": [
