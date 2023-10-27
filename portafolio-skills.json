@@ -3,52 +3,52 @@
       {
          "id":1,
          "img":"images/skills/html.png",
-         "color":"html"
+         "color":"bg-html"
       },
       {
          "id":2,
          "img":"images/skills/css.png",
-         "color":"css"
+         "color":"bg-css"
       },
       {
          "id":3,
          "img":"images/skills/js.png",
-         "color":"js"
+         "color":"bg-js"
       },
       {
          "id":4,
          "img":"images/skills/sass.png",
-         "color":"sass"
+         "color":"bg-sass"
       },
       {
          "id":5,
          "img":"images/skills/bootstrap.png",
-         "color":"bootstrap"
+         "color":"bg-bootstrap"
       },
       {
          "id":6,
          "img":"images/skills/php.png",
-         "color":"php"
+         "color":"bg-php"
       },
       {
          "id":7,
          "img":"images/skills/xampp.png",
-         "color":"xampp"
+         "color":"bg-xampp"
       },
       {
          "id":8,
          "img":"images/skills/jquery.png",
-         "color":"jquery"
+         "color":"bg-jquery"
       },
       {
          "id":9,
          "img":"images/skills/mysql.png",
-         "color":"mysql"
+         "color":"bg-mysql"
       },
       {
          "id":10,
          "img":"images/skills/photoshop.png",
-         "color":"photoshop"
+         "color":"bg-photoshop"
       }
    ]
 }
