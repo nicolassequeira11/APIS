@@ -1,0 +1,61 @@
+{
+   "projects":[
+      {
+        "id":1,
+        "img":"images/projects/peluqueria.png",
+        "url":"https://nicolassequeira11.github.io/azul-estetica/",
+        "github": "https://github.com/nicolassequeira11/azul-estetica",
+        "skills": [
+          "images/skills/html.png",
+          "images/skills/css.png",
+          "images/skills/sass.png",
+          "images/skills/js.png",
+          "images/skills/bootstrap.png",
+          "images/skills/photoshop.png",
+        ]
+      },
+      {
+        "id":2,
+        "img":"images/projects/veterinaria.png",
+        "url":"https://nicolassequeira.000webhostapp.com/",
+        "github": "https://github.com/nicolassequeira11/Veterinaria-Santa-Clara",
+        "skills": [
+          "images/skills/html.png",
+          "images/skills/css.png",
+          "images/skills/sass.png",
+          "images/skills/js.png",
+          "images/skills/bootstrap.png",
+          "images/skills/photoshop.png",
+        ]
+      },
+      {
+         "id":3,
+        "img":"images/projects/wantan.png",
+        "url":"https://nicolassequeira11.github.io/wantan/",
+        "github": "https://github.com/nicolassequeira11/wantan",
+        "skills": [
+          "images/skills/html.png",
+          "images/skills/css.png",
+          "images/skills/sass.png",
+          "images/skills/js.png",
+          "images/skills/bootstrap.png",
+          "images/skills/photoshop.png",
+        ]
+      },
+      {
+         "id":4,
+        "img":"images/projects/bonvoyage.png",
+        "url":"https://nicolassequeira11.github.io/bonvoyage/",
+        "github": "https://github.com/nicolassequeira11/bonvoyage",
+        "skills": [
+          "images/skills/api.png",
+          "images/skills/html.png",
+          "images/skills/css.png",
+          "images/skills/sass.png",
+          "images/skills/js.png",
+          "images/skills/bootstrap.png",
+          "images/skills/photoshop.png",
+        ]
+      }
+   ]
+}
