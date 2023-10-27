@@ -1112,15 +1112,15 @@
             ],
             "image": "media/image/japon-1.jpg",
             "imageBanner": [
-                "media/image/japon/japon-1.jpg",
-                "media/image/japon/japon-2.jpg"
+                "https://wallpapercave.com/wp/wp12014262.jpg",
+                "https://wallpapercave.com/wp/wp9417657.jpg"
             ],
             "gallery": [
-                "https://wallpaperaccess.com/full/1392569.jpg",
-                "https://wallpaperaccess.com/full/3597628.jpg",
-                "https://wallpaperaccess.com/full/1392579.jpg",
-                "https://wallpaperaccess.com/full/3597667.jpg",
-                "https://wallpaperaccess.com/full/3597874.jpg"
+                "https://wallpapercave.com/wp/wp8962708.jpg",
+                "https://wallpapercave.com/wp/wp12437120.jpg",
+                "https://wallpapercave.com/wp/wp12450033.jpg",
+                "https://wallpapercave.com/wp/wp12450053.jpg",
+                "https://wallpapercave.com/wp/wp4655064.jpg"
             ]
         },
         {
@@ -1163,15 +1163,15 @@
             ],
             "image": "media/image/seul-1.webp",
             "imageBanner": [
-                "media/image/seul/seul-1.jpg",
-                "media/image/seul/seul-2.jpg"
+                "https://wallpapercave.com/wp/wp7390395.jpg",
+                "https://wallpapercave.com/wp/wp9024307.jpg"
             ],
             "gallery": [
-                "https://wallpaperaccess.com/full/1392569.jpg",
-                "https://wallpaperaccess.com/full/3597628.jpg",
-                "https://wallpaperaccess.com/full/1392579.jpg",
-                "https://wallpaperaccess.com/full/3597667.jpg",
-                "https://wallpaperaccess.com/full/3597874.jpg"
+                "https://wallpapercave.com/wp/wp8639234.jpg",
+                "https://wallpapercave.com/wp/wp1867533.jpg",
+                "https://wallpapercave.com/wp/wp12647148.jpg",
+                "https://wallpapercave.com/wp/wp10226975.jpg",
+                "https://wallpapercave.com/wp/wp11312590.jpg"
             ]
         },
         {
@@ -1222,15 +1222,15 @@
             ],
             "image": "media/image/filipinas-1.jpg",
             "imageBanner": [
-                "media/image/filipinas/filipinas-1.jpg",
-                "media/image/filipinas/filipinas-2.jpg"
+                "https://wallpapercave.com/wp/wp11424738.jpg",
+                "https://wallpapercave.com/wp/wp7609556.jpg"
             ],
             "gallery": [
-                "https://wallpaperaccess.com/full/1392569.jpg",
-                "https://wallpaperaccess.com/full/3597628.jpg",
-                "https://wallpaperaccess.com/full/1392579.jpg",
-                "https://wallpaperaccess.com/full/3597667.jpg",
-                "https://wallpaperaccess.com/full/3597874.jpg"
+                "https://wallpapercave.com/wp/wp11424666.jpg",
+                "https://wallpapercave.com/wp/wp11424681.jpg",
+                "https://wallpapercave.com/wp/wp6737735.jpg",
+                "https://wallpapercave.com/wp/wp11424752.jpg",
+                "https://wallpapercave.com/wp/wp1996140.jpg"
             ]
         },
         {
@@ -1284,15 +1284,77 @@
             ],
             "image": "media/image/tailandia-1.jpg",
             "imageBanner": [
-                "media/image/tailandia/tailandia-1.jpg",
-                "media/image/tailandia/tailandia-2.jpg"
+                "https://wallpapercave.com/wp/wp9292614.jpg",
+                "https://wallpapercave.com/wp/wp12488584.jpg"
             ],
             "gallery": [
-                "https://wallpaperaccess.com/full/1392569.jpg",
-                "https://wallpaperaccess.com/full/3597628.jpg",
-                "https://wallpaperaccess.com/full/1392579.jpg",
-                "https://wallpaperaccess.com/full/3597667.jpg",
-                "https://wallpaperaccess.com/full/3597874.jpg"
+                "https://wallpapercave.com/wp/wp4189511.jpg",
+                "https://wallpapercave.com/wp/wp12488581.jpg",
+                "https://wallpapercave.com/wp/wp12488969.jpg",
+                "https://wallpapercave.com/wp/wp9292737.jpg",
+                "https://wallpapercave.com/wp/wp12105690.jpg"
+            ]
+        },
+        {
+            "id": 2030,
+            "name": "Beijing",
+            "country": "China",
+            "citys": "Beijing",          
+            "region": "Asia",
+            "type": "avion",
+            "description": "Descubre Beijing en un viaje de 5 días. Visita la Gran Muralla, explora la majestuosa Ciudad Prohibida, sumérgete en la cultura en el Templo del Cielo y experimenta la vida en los tradicionales Hutongs. Disfruta de la auténtica gastronomía china.",
+            "date": "10 de Octubre",
+            "days": "7 noches",
+            "price": "1300",
+            "priceType": "Por persona en base doble",
+            "includes": [
+                "Asistencia a la llegada y salida en el aeropuerto por personal de habla hispana.",
+                "Traslados de llegada y salida del aeropuerto principal.",
+                "7 noches de alojamiento en los hoteles indicados.",
+                "Régimen alimenticio según opción de itinerario elegido.",
+                "Visita de Bangkok con Gran Palacio, Ayutthaya, Shukothai, Chiang Rai y Chiang Mai, según itinerario.",
+                "Guía acompañante de habla hispana durante el recorrido, excepto en Bangkok con guía local de habla hispana.",
+                "Entradas a los lugares de interés, según itinerario.",
+                "Seguro de Viaje (coberturas de acuerdo a nuestra web).",
+                "Servicio de Asistencia telefónica 24 HORAS.",
+                "Almuerzo en el restaurante Babble & Grill - Riva Surya en Bangkok",
+                "Cena Kantoke.",
+                "Visita de Bangkok exclusiva clientes Special Tours.",
+                "Paseo en Tuk Tuk en Bangkok.",
+                "Paseo en “Long Tail” para visitar los Klongs de Bangkok.",
+                "Visita del Templo Blanco.",
+                "Visita de día completo en Bangkok incluyendo visitas inéditas como el Templo de Wat Saket y Wat Arun.",
+                "Visita al Santuario de elefantes de Chiang Mai donde tendremos la oportunidad de interactuar con los elefantes de manera responsable y sostenible.",
+                "Bebidas no incluidas en las comidas.",
+                "Visado no incluido.",
+                "Tasas hoteleras no incluidas.",
+                "Propinas para guía, conductor, etc. no incluidas.",
+                "No incluido ningún otro servicio no especificado en el apartado de Incluye o Valores Añadidos."
+            ],
+            "no-includes": [
+                
+            ],
+            "itinerary": [
+                "<strong>Día 1: BANGKOK</strong><br> Llegada al aeropuerto internacional de Suvarnabhumi (BKK). Encuentro con nuestro asistente de habla hispana y traslado al hotel. Resto del día libre para conocer una de las ciudades más antiguas del sudeste asiático, que combina su patrimonio cultural de maravillosos templos y mercados con modernos centros comerciales. Aquí reside la familia real, se asienta el gobierno y la administración, y es el mayor centro de las actividades industriales, comerciales y financieras del país. Es el puerto principal del reino y alberga a la décima parte de la población. La capital de Tailandia es también la puerta principal del país y la atracción más importante para el turismo. Alojamiento.<br>",
+                "<strong>Día 2: BANGKOK (Visita día completo Exclusiva Special Tours)</strong><br> Desayuno. Visita de día completo de Bangkok que nos permitirá descubrir el corazón de la historia y la cultura de la ciudad de Bangkok. Visitaremos el templo Wat Saket y el Monte Dorado, que fue construido en el siglo XIX a lo largo de varios reinados. Para acceder a la cima se debe subir por una escalera de 300 escalones, con un declive suave y varios sitios para detenerse en el ascenso. Desde la terraza se tiene una vista panorámica de toda la ciudad. Continuamos hasta el Gran Palacio Real, uno de los más hermosos ejemplos de las cortes de Siam. Antiguamente solía ser utilizado como residencia de los reyes de Tailandia. Aquí se pueden admirar palacios usados en distintas ocasiones: el palacio de los funerales, el palacio de las recepciones, la sala del trono, la sala de la coronación, la casa de los invitados reales y el maravilloso templo del Buda Esmeralda. Continuamos hasta el Wat Pho, el gran complejo real de templos que alberga un Buda Reclinado de 46 metros de longitud y los chedis (tumbas) de los reyes. Uno de los templos más antiguos de Bangkok, el Wat Pho, fue declarado monasterio real durante el reinado del rey Rama I. A continuación daremos un emocionante paseo en Tuk Tuk desde el templo hasta el restaurante Babble & Grill - Riva Surya para tomar el Almuerzo. Tras el almuerzo vamos a subir en una “Long Tail” una típica embarcación de cola larga, para disfrutar de un paseo a través de los canales de Thomburi, llamados Klong, que recuerdan el apelativo de “la Venecia de Oriente”. Antiguamente los Klongs fueron usados, además de para ocuparse de las aguas residuales de Bangkok, para el transporte de mercancías y personas y para la venta en los mercados flotantes. Hoy en día gran parte de los canales han sido reconstruidos como calles, quedando sólo algunos en la parte oeste del río. Después, visitaremos el Wat Arun, el Templo del Amanecer y uno de los símbolos de la ciudad. Continuaremos por barco hasta el Asiatique The Riverfront, un mercado nocturno a lo largo del río muy popular en la ciudad, donde podremos disfrutar de tiempo libre para realizar compras, pasear o tomar la cena en unos de sus múltiples y variados restaurantes. El regreso al hotel se realizará de manera individual (cena y traslado de regreso no incluido). Alojamiento.<br>",
+                "<strong>Día 3: BANGKOK</strong><br> Desayuno. Día libre para descubrir por su cuenta, una de las ciudades más antiguas del sudeste asiático, que combina su patrimonio cultural de maravillosos templos y mercados con modernos centros comerciales. Podrá realizar, de manera opcional, una visita al Mercado Flotante donde cientos de canoas de madera ofrecen todo tipo de productos, desde flores frescas, fruta y verdura, bebidas, etc. Alojamiento<br>",
+                "<strong>Día 4: BANGKOK – AYUTTHAYA- PHITSANULOKE/ SUKHOTHAI</strong><br> Desayuno. Salida por carretera hacia Ayutthaya donde visitaremos el Parque Histórico de Ayutthaya y sus maravillosos templos. Ayutthaya fue capital del reino del mismo nombre de 1371 hasta 1700 aproximadamente para ser luego Reino de Siam que abarca gran parte de la actual Tailandia y Camboya. La visita incluye los principales templos: el Wat Chaiwathanaram y el Wat Phra Srisampetch. Almuerzo en restaurante local. Por la tarde, salida hacia Sukhothai o Phitsanuloke. Llegada y Alojamiento.<br>",
+                "<strong>Día 5: PHITSANULOKE/ SUKHOTHAI - CHIANG RAI</strong><br> Desayuno. Salida temprano por la mañana para llegar al parque arqueológico de Sukhothai, la primera capital del Reino de Siam en el siglo XIII, y actualmente Patrimonio de la Humanidad UNESCO. Visita a los principales templos del Parque, como el Wat Maha Dhat. Almuerzo en restaurante local. Tras del almuerzo nos dirigiremos por carretera hasta Chiang Rai realizando una parada en el lago Phayao, donde podremos tomar fotografías o simplemente caminar un poco por el parque costero. Llegada a Chiang Rai. Alojamiento.",
+                "<strong>Día 6: CHIANG RAI - CHIANG MAI</strong><br> Desayuno. Salida hacia el famoso Triángulo de Oro, punto de unión de Laos, Birmania y Tailandia, y conocido por la gente local como “Sop Ruak. A continuación visita a la casa del Opio. Almuerzo en un restaurante local. Por la tarde visitaremos el Wat Rong Kun, el Templo Blanco, que simboliza la pureza del budismo con su color blanco brillante y los adornos de los espejos. Después, traslado hasta Chiang Mai a través del hermoso paisaje de selva tropical. Llegada a Chiang Mai. Alojamiento",
+                "<strong>Día 7: CHIANG MAI ( Santuario de elefantes )</strong><br> Desayuno. Salida temprano por la mañana a través de áreas agrícolas, colinas y bosque, antes de llegar al Santuario de Elefantes y disfrutar de una mañana llena de actividades con estos maravillosos animales. Tendremos la oportunidad de ofrecer plátanos y caña de azúcar para alimentar a los elefantes y caminaremos a través del Santuario donde escucharemos sus historias. Podremos tocar, alimentar, fotografiar e interactuar con los elefantes aprendiendo sobre su estilo de vida y comportamientos. Almuerzo. Regreso a Chiang Mai y visita al principal Templo del Norte: el Wat Doi Suthep, conocido como el templo en la montaña: un lugar sagrado y respetado por los tailandeses desde hace más de 1200 años ya que sus antepasados creían que las almas de los difuntos residían en él, convirtiendo esta colina en el epicentro del budismo por el imperio Lanna. Por la tarde disfrutaremos de la Cena Kantoke, una típica cena Thai amenizada con antiguas danzas del norte de Tailandia y de varias tribus. Alojamiento.",
+                "<strong>Día 8: CHIANG MAI</strong><br> Desayuno. Tiempo libre hasta el traslado al aeropuerto de Chiang Mai (CNX) para tomar el vuelo de regreso o conectar con otro de nuestros itinerarios. Fin de nuestros servicios."
+            ],
+            "image": "media/image/beijing-1.jpg",
+            "imageBanner": [
+                "https://wallpapercave.com/wp/wp1984234.jpg",
+                "https://wallpapercave.com/wp/wp1984208.jpg"
+            ],
+            "gallery": [
+                "https://wallpapercave.com/wp/wp1984239.jpg",
+                "https://wallpapercave.com/wp/wp1984280.jpg",
+                "https://wallpapercave.com/wp/wp1984281.jpg",
+                "https://wallpapercave.com/wp/wp1984289.jpg",
+                "https://wallpapercave.com/wp/wp1984291.jpg"
             ]
         }
     ]
