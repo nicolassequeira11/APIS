@@ -2,43 +2,43 @@
    "images":[
       {
          "id":1,
-         "img":"images/html.png"
+         "img":"images/skills/html.png"
       },
       {
          "id":2,
-         "img":"images/css.png"
+         "img":"images/skills/css.png"
       },
       {
          "id":3,
-         "img":"images/js.png"
+         "img":"images/skills/js.png"
       },
       {
          "id":4,
-         "img":"images/sass.png"
+         "img":"images/skills/sass.png"
       },
       {
          "id":5,
-         "img":"images/bootstrap.png"
+         "img":"images/skills/bootstrap.png"
       },
       {
          "id":6,
-         "img":"images/php.png"
+         "img":"images/skills/php.png"
       },
       {
          "id":7,
-         "img":"images/xampp.png"
+         "img":"images/skills/xampp.png"
       },
       {
          "id":8,
-         "img":"images/jquery.png"
+         "img":"images/skills/jquery.png"
       },
       {
          "id":9,
-         "img":"images/mysql.png"
+         "img":"images/skills/mysql.png"
       },
       {
          "id":10,
-         "img":"images/photoshop.png"
+         "img":"images/skills/photoshop.png"
       }
    ]
 }
