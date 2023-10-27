@@ -27,26 +27,31 @@
       },
       {
          "id":6,
+         "img":"images/skills/github.png",
+         "color":"bg-github"
+      },
+      {
+         "id":7,
          "img":"images/skills/php.png",
          "color":"bg-php"
       },
       {
-         "id":7,
+         "id":8,
          "img":"images/skills/xampp.png",
          "color":"bg-xampp"
       },
       {
-         "id":8,
+         "id":9,
          "img":"images/skills/jquery.png",
          "color":"bg-jquery"
       },
       {
-         "id":9,
+         "id":10,
          "img":"images/skills/mysql.png",
          "color":"bg-mysql"
       },
       {
-         "id":10,
+         "id":11,
          "img":"images/skills/photoshop.png",
          "color":"bg-photoshop"
       }
