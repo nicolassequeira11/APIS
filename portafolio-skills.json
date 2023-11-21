@@ -2,61 +2,71 @@
    "images":[
       {
          "id":1,
+         "img":"images/skills/react.png",
+         "color":"bg-react"
+      },
+      {
+         "id":2,
+         "img":"images/skills/node.png",
+         "color":"bg-node"
+      },
+      {
+         "id":3,
          "img":"images/skills/html.png",
          "color":"bg-html"
       },
       {
-         "id":2,
+         "id":4,
          "img":"images/skills/css.png",
          "color":"bg-css"
       },
       {
-         "id":3,
+         "id":5,
          "img":"images/skills/js.png",
          "color":"bg-js"
       },
       {
-         "id":4,
+         "id":6,
          "img":"images/skills/sass.png",
          "color":"bg-sass"
       },
       {
-         "id":5,
+         "id":7,
          "img":"images/skills/api.png",
          "color":"bg-api"
       },
       {
-         "id":6,
+         "id":8,
          "img":"images/skills/bootstrap.png",
          "color":"bg-bootstrap"
       },
       {
-         "id":7,
+         "id":9,
          "img":"images/skills/github.png",
          "color":"bg-github"
       },
       {
-         "id":8,
+         "id":10,
          "img":"images/skills/php.png",
          "color":"bg-php"
       },
       {
-         "id":9,
+         "id":11,
          "img":"images/skills/xampp.png",
          "color":"bg-xampp"
       },
       {
-         "id":10,
+         "id":12,
          "img":"images/skills/jquery.png",
          "color":"bg-jquery"
       },
       {
-         "id":11,
+         "id":13,
          "img":"images/skills/mysql.png",
          "color":"bg-mysql"
       },
       {
-         "id":12,
+         "id":14,
          "img":"images/skills/photoshop.png",
          "color":"bg-photoshop"
       }
