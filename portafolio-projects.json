@@ -60,6 +60,21 @@
           "images/skills/bootstrap.png",
           "images/skills/photoshop.png"
         ]
+      },
+      {
+         "id":5,
+         "title": "Bookstore",
+        "img":"images/projects/legere.png",
+        "url":"https://nicolassequeira11.github.io/Legere/",
+        "github": "https://github.com/nicolassequeira11/Legere",
+        "skills": [
+          "images/skills/react.png",
+          "images/skills/node.png",
+          "images/skills/api.png",
+          "images/skills/css.png",
+          "images/skills/js.png",
+          "images/skills/bootstrap.png",
+        ]
       }
    ]
 }
