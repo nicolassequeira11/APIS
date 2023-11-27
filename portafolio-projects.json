@@ -75,6 +75,22 @@
           "images/skills/js.png",
           "images/skills/bootstrap.png"
         ]
+      },
+      {
+         "id":6,
+         "title": "Trabajo en equipo",
+        "img":"images/projects/jap.png",
+        "url":"https://nicolassequeira11.github.io/53148269_proyecto-final-jap/login.html",
+        "github": "https://github.com/nicolassequeira11/53148269_proyecto-final-jap",
+        "skills": [
+          "images/skills/html.png",
+          "images/skills/css.png",
+          "images/skills/js.png",
+          "images/skills/bootstrap.png",
+          "images/skills/nodejs.png",
+         "images/skills/api.png",
+           "images/skills/mariadb.png"
+        ]
       }
    ]
 }
