@@ -5,6 +5,7 @@
          "title": "Peluquería",
         "img":"images/projects/peluqueria-mockup.png",
          "gif": "images/projects/peluqueria-gif.gif",
+         "logo": "images/projects/peluqueria-logo.png",
         "url":"https://nicolassequeira11.github.io/azul-estetica/",
         "github": "https://github.com/nicolassequeira11/azul-estetica",
         "skills": [
@@ -21,6 +22,7 @@
          "title": "Veterinaria",
         "img":"images/projects/veterinaria-mockup.png",
          "gif": "images/projects/veterinaria-gif.gif",
+         "logo": "images/projects/veterinaria-logo.png",
         "url":"https://nicolassequeira.000webhostapp.com/",
         "github": "https://github.com/nicolassequeira11/Veterinaria-Santa-Clara",
         "skills": [
@@ -37,6 +39,7 @@
          "title": "Restaurante comida China",
         "img":"images/projects/wantan-mockup.png",
          "gif": "images/projects/wantan-gif.gif",
+         "logo": "images/projects/wantan-logo.png",
         "url":"https://nicolassequeira11.github.io/wantan/",
         "github": "https://github.com/nicolassequeira11/wantan",
         "skills": [
@@ -53,6 +56,7 @@
          "title": "Agencia de viajes",
         "img":"images/projects/bonvoyage-mockup.png",
          "gif": "images/projects/bonvoyage-gif.gif",
+         "logo": "images/projects/bonvoyage-logo.png",
         "url":"https://nicolassequeira11.github.io/bonvoyage/",
         "github": "https://github.com/nicolassequeira11/bonvoyage",
         "skills": [
@@ -70,6 +74,7 @@
          "title": "Bookstore",
         "img":"images/projects/legere-mockup.png",
          "gif": "images/projects/legere-gif.gif",
+         "logo": "images/projects/legere-logo.png",
         "url":"https://nicolassequeira11.github.io/Legere/",
         "github": "https://github.com/nicolassequeira11/Legere",
         "skills": [
@@ -86,6 +91,7 @@
          "title": "Trabajo en equipo",
         "img":"images/projects/jap-mockup.png",
          "gif": "images/projects/jap-gif.gif",
+         "logo": "images/projects/jap-logo.svg",
         "url":"https://nicolassequeira11.github.io/53148269_proyecto-final-jap/login.html",
         "github": "https://github.com/nicolassequeira11/53148269_proyecto-final-jap",
         "skills": [
