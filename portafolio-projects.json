@@ -3,7 +3,7 @@
       {
          "id":1,
          "title": "Peluquería",
-        "img":"images/projects/peluqueria.png",
+        "img":"images/projects/peluqueria-mockup.png",
         "url":"https://nicolassequeira11.github.io/azul-estetica/",
         "github": "https://github.com/nicolassequeira11/azul-estetica",
         "skills": [
@@ -18,7 +18,7 @@
       {
         "id":2,
          "title": "Veterinaria",
-        "img":"images/projects/veterinaria.png",
+        "img":"images/projects/veterinaria-mockup.png",
         "url":"https://nicolassequeira.000webhostapp.com/",
         "github": "https://github.com/nicolassequeira11/Veterinaria-Santa-Clara",
         "skills": [
@@ -33,7 +33,7 @@
       {
          "id":3,
          "title": "Restaurante comida China",
-        "img":"images/projects/wantan.png",
+        "img":"images/projects/wantan-mockup.png",
         "url":"https://nicolassequeira11.github.io/wantan/",
         "github": "https://github.com/nicolassequeira11/wantan",
         "skills": [
@@ -48,7 +48,7 @@
       {
          "id":4,
          "title": "Agencia de viajes",
-        "img":"images/projects/bonvoyage.png",
+        "img":"images/projects/bonvoyage-mockup.png",
         "url":"https://nicolassequeira11.github.io/bonvoyage/",
         "github": "https://github.com/nicolassequeira11/bonvoyage",
         "skills": [
@@ -64,7 +64,7 @@
       {
          "id":5,
          "title": "Bookstore",
-        "img":"images/projects/legere.png",
+        "img":"images/projects/legere-mockup.png",
         "url":"https://nicolassequeira11.github.io/Legere/",
         "github": "https://github.com/nicolassequeira11/Legere",
         "skills": [
@@ -79,7 +79,7 @@
       {
          "id":6,
          "title": "Trabajo en equipo",
-        "img":"images/projects/jap.png",
+        "img":"images/projects/jap-mockup.png",
         "url":"https://nicolassequeira11.github.io/53148269_proyecto-final-jap/login.html",
         "github": "https://github.com/nicolassequeira11/53148269_proyecto-final-jap",
         "skills": [
