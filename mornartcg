@@ -6,7 +6,11 @@
     "price": 4190,
     "description": "",
     "stock": 15,
-    "tags": ["pokemon", "paldean fates", "elite trainer box", "ingles"]
+    "tags": ["pokemon", "paldean fates", "elite trainer box", "ingles"],
+    "img": [
+      "media/products/pokemon/pokemon-paldea-fates-1.jpg",
+      "media/products/pokemon/pokemon-paldea-fates-2.jpg"
+    ]
     },
     {
     "id": 2,
@@ -14,7 +18,11 @@
     "price": 6400,
     "description": "",
     "stock": 4,
-    "tags": ["pokemon", "paradox rift", "booster box", "ingles"]
+    "tags": ["pokemon", "paradox rift", "booster box", "ingles"],
+    "img": [
+      "media/products/pokemon/pokemon-paradox-1.jpg",
+      "media/products/pokemon/pokemon-paradox-2.jpg"
+    ]
     },
   ]
 }
