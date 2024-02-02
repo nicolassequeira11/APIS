@@ -7,10 +7,10 @@
     "description": "",
     "stock": 15,
     "tags": ["pokemon", "paldean fates", "elite trainer box", "ingles"],
-    "img": 
-      "./media/products/pokemon/pokemon-paldea-fates-1.jpg"
-
-    
+    "img": [
+      "media/products/pokemon/pokemon-paldea-fates-1.jpg",
+      "media/products/pokemon/pokemon-paldea-fates-2.jpg"
+    ]
     },
     {
     "id": 2,
@@ -19,10 +19,10 @@
     "description": "",
     "stock": 4,
     "tags": ["pokemon", "paradox rift", "booster box", "ingles"],
-    "img": 
-      "./media/products/pokemon/pokemon-paradox-1.jpg"
-
-    
+    "img": [
+      "media/products/pokemon/pokemon-paradox-1.jpg",
+      "media/products/pokemon/pokemon-paradox-2.jpg"
+    ]
     }
   ]
 }
