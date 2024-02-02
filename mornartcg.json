@@ -10,7 +10,7 @@
     "img": 
       "./media/products/pokemon/pokemon-paldea-fates-1.jpg"
 
-    ]
+    
     },
     {
     "id": 2,
@@ -22,7 +22,7 @@
     "img": 
       "./media/products/pokemon/pokemon-paradox-1.jpg"
 
-    ]
+    
     }
   ]
 }
