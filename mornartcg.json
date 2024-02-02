@@ -1,78 +1,78 @@
 {
   "pokemon": [
-    {
-    "id": 1,
-    "name": "Pokémon TCG: Paldean Fates Elite Trainer Box [Inglés]",
-    "price": 4190,
-    "description": "",
-    "stock": 15,
-    "tags": ["pokemon", "paldean fates", "elite trainer box", "ingles"],
-    "img": [
-      "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P9537_290-85619_01.jpg",
-      "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P9537_290-85619_02.jpg"
-    ]
-    },
-    {
-    "id": 2,
-    "name": "Pokémon TCG: Paradox Rift Booster Display Box (36 Packs)",
-    "price": 6400,
-    "description": "",
-    "stock": 4,
-    "tags": ["pokemon", "paradox rift", "booster box", "ingles"],
-    "img": [
-      "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8981_699-85399_01.jpg",
-      "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8981_699-85399_02.jpg"
-    ]
-    },
-    {
-    "id": 3,
-    "name": "Pokémon TCG: Obsidian Flames 3 Booster Packs",
-    "price": 1300,
-    "description": "",
-    "stock": 10,
-    "tags": ["pokemon", "obsidian flames", "booster packs", "ingles"],
-    "img": [
-      "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8979_699-85379_01.jpg",
-      "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8979_699-85379_03.jpg"
-    ]
+      {
+      "id": 1,
+      "name": "Pokémon TCG: Paldean Fates Elite Trainer Box [Inglés]",
+      "price": 4190,
+      "description": "",
+      "stock": 15,
+      "tags": ["pokemon", "paldean fates", "elite trainer box", "ingles"],
+      "img": [
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P9537_290-85619_01.jpg",
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P9537_290-85619_02.jpg"
+      ]
+      },
+      {
+      "id": 2,
+      "name": "Pokémon TCG: Paradox Rift Booster Display Box (36 Packs)",
+      "price": 6400,
+      "description": "",
+      "stock": 4,
+      "tags": ["pokemon", "paradox rift", "booster box", "ingles"],
+      "img": [
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8981_699-85399_01.jpg",
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8981_699-85399_02.jpg"
+      ]
+      },
+      {
+      "id": 3,
+      "name": "Pokémon TCG: Obsidian Flames 3 Booster Packs",
+      "price": 1300,
+      "description": "",
+      "stock": 10,
+      "tags": ["pokemon", "obsidian flames", "booster packs", "ingles"],
+      "img": [
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8979_699-85379_01.jpg",
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8979_699-85379_03.jpg"
+      ]
     }
   ],
   "yugioh": [
-    {
-    "id": 1000,
-    "name": "Yu-Gi-Oh! Lata 25.º Aniversario: Héroes de los Duelos",
-    "price": 2000,
-    "description": "",
-    "stock": 2,
-    "tags": ["yugioh", "lata", "aniversario", "español"],
-    "img": [
-      "https://img.yugioh-card.com/eu/wp-content/uploads/2023/04/TIN-2023-Camera-02.png",
-      "https://img.yugioh-card.com/eu/wp-content/uploads/2023/04/TIN-2023-Camera-01.png"
-    ]
-    },
-    {
-    "id": 1002,
-    "name": "Yu-Gi-Oh! Baraja de Estructura: Reyes de Fuego",
-    "price": 1300,
-    "description": "",
-    "stock": 2,
-    "tags": ["yugioh", "fire kings", "deck", "español"],
-    "img": [
-      "https://img.yugioh-card.com/eu/wp-content/uploads/2023/08/SR14-Tuck-01-SP.webp",
-      "https://img.yugioh-card.com/eu/wp-content/uploads/2023/08/SR14-Tuck-02-SP.webp"
-    ]
-    },
-    {
-    "id": 1003,
-    "name": "Yu-Gi-Oh! La Colección Legendaria: Edición 25º Aniversario",
-    "price": 2390,
-    "description": "",
-    "stock": 10,
-    "tags": ["yugioh", "aniversario", "español"],
-    "img": [
-      "https://img.yugioh-card.com/eu/wp-content/uploads/2023/02/LCO1-Box-01-SP-2.webp",
-      "https://img.yugioh-card.com/eu/wp-content/uploads/2023/02/LCO1-Box-02-SP-1.webp"
-    ]
-    }
+      {
+      "id": 1000,
+      "name": "Yu-Gi-Oh! Lata 25.º Aniversario: Héroes de los Duelos",
+      "price": 2000,
+      "description": "",
+      "stock": 2,
+      "tags": ["yugioh", "lata", "aniversario", "español"],
+      "img": [
+        "https://img.yugioh-card.com/eu/wp-content/uploads/2023/04/TIN-2023-Camera-02.png",
+        "https://img.yugioh-card.com/eu/wp-content/uploads/2023/04/TIN-2023-Camera-01.png"
+      ]
+      },
+      {
+      "id": 1002,
+      "name": "Yu-Gi-Oh! Baraja de Estructura: Reyes de Fuego",
+      "price": 1300,
+      "description": "",
+      "stock": 2,
+      "tags": ["yugioh", "fire kings", "deck", "español"],
+      "img": [
+        "https://img.yugioh-card.com/eu/wp-content/uploads/2023/08/SR14-Tuck-01-SP.webp",
+        "https://img.yugioh-card.com/eu/wp-content/uploads/2023/08/SR14-Tuck-02-SP.webp"
+      ]
+      },
+      {
+      "id": 1003,
+      "name": "Yu-Gi-Oh! La Colección Legendaria: Edición 25º Aniversario",
+      "price": 2390,
+      "description": "",
+      "stock": 10,
+      "tags": ["yugioh", "aniversario", "español"],
+      "img": [
+        "https://img.yugioh-card.com/eu/wp-content/uploads/2023/02/LCO1-Box-01-SP-2.webp",
+        "https://img.yugioh-card.com/eu/wp-content/uploads/2023/02/LCO1-Box-02-SP-1.webp"
+      ]
+      }
   ]
 }
