@@ -153,5 +153,46 @@
         "https://media.miniaturemarket.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/a/ban2705241-box_1.jpg"
       ]
         }
+  ],
+  "magic": [
+      {
+      "id": 4000,
+      "name": "Magic: Phyrexia All Will Be One - Draft Booster [Ingles]",
+      "price": 370,
+      "description": "",
+      "stock": 2,
+      "collection": "Phyrexia All Will Be One",
+      "tags": ["magic", "ingles", "booster", "phyrexia all will be one"],
+      "img": [
+        "https://f.fcdn.app/imgs/4c0bda/www.xuruguay.com.uy/xuruuy/bddc/webp/catalogo/1951661848381951661848381/460x460/phyrexia-all-will-be-one-draft-booster-ingles-phyrexia-all-will-be-one-draft-booster-ingles.jpg",
+        "https://f.fcdn.app/imgs/dffb4f/www.xuruguay.com.uy/xuruuy/370a/webp/catalogo/1951661848381951661848382/460x460/phyrexia-all-will-be-one-draft-booster-ingles-phyrexia-all-will-be-one-draft-booster-ingles.jpg"
+      ]
+        },
+      {
+      "id": 4001,
+      "name": "Magic: March of the Machine The Aftermath - Bundle [Inglés]",
+      "price": 3690,
+      "description": "",
+      "stock": 2,
+      "collection": "March of the Machine The Aftermath",
+      "tags": ["magic", "ingles", "bundle", "march of the machine the aftermath"],
+      "img": [
+        "https://f.fcdn.app/imgs/5306a8/www.xuruguay.com.uy/xuruuy/a7e4/webp/catalogo/1951662138731951662138731/460x460/march-of-the-machine-the-aftermath-bundle-ingles-march-of-the-machine-the-aftermath-bundle-ingles.jpg",
+        "https://f.fcdn.app/imgs/4294c3/www.xuruguay.com.uy/xuruuy/2c65/webp/catalogo/1951662138731951662138732/460x460/march-of-the-machine-the-aftermath-bundle-ingles-march-of-the-machine-the-aftermath-bundle-ingles.jpg"
+      ]
+        },
+      {
+      "id": 4002,
+      "name": "Magic: Adventures in the Forgotten Realms - Set Booster [Inglés]",
+      "price": 450,
+      "description": "",
+      "stock": 10,
+      "collection": "Adventures in the Forgotten Realms",
+      "tags": ["magic", "ingles", "booster", "adventures in the forgotten realms"],
+      "img": [
+        "https://f.fcdn.app/imgs/e60c81/www.xuruguay.com.uy/xuruuy/009e/webp/catalogo/6305099828686305099828681/460x460/set-booster-adventures-in-the-forgotten-realms-ingles-set-booster-adventures-in-the-forgotten-realms-ingles.jpg",
+        "https://f.fcdn.app/imgs/50bac3/www.xuruguay.com.uy/xuruuy/6dcf/webp/catalogo/6305099828686305099828682/460x460/set-booster-adventures-in-the-forgotten-realms-ingles-set-booster-adventures-in-the-forgotten-realms-ingles.jpg"
+      ]
+        }
   ]
 }
