@@ -194,5 +194,46 @@
         "https://f.fcdn.app/imgs/50bac3/www.xuruguay.com.uy/xuruuy/6dcf/webp/catalogo/6305099828686305099828682/460x460/set-booster-adventures-in-the-forgotten-realms-ingles-set-booster-adventures-in-the-forgotten-realms-ingles.jpg"
       ]
         }
+  ],
+  "fleshandblood": [
+      {
+      "id": 5000,
+      "name": "Flesh and Blood: Outsiders - Blitz Deck",
+      "price": 1200,
+      "description": "",
+      "stock": 2,
+      "collection": "Phyrexia All Will Be One",
+      "tags": ["flesh and blood", "ingles", "deck", "outsiders"],
+      "img": [
+        "https://thirstymeeples.co.uk/cdn/shop/products/FleshAndBloodTCGOutsidersBlitzDeck_1_2000x.png?v=1679079300",
+        "https://thirstymeeples.co.uk/cdn/shop/products/FleshAndBloodTCGOutsidersBlitzDeck_1_2000x.png?v=1679079300"
+      ]
+        },
+      {
+      "id": 5001,
+      "name": "Flesh and Blood: Dusk till dawn - Booster Pack",
+      "price": 400,
+      "description": "",
+      "stock": 2,
+      "collection": "Dusk Till Dawn",
+      "tags": ["flesh and blood", "ingles", "booster pack", "dusk till dawn"],
+      "img": [
+        "https://mornarstore.com/img/p/1/1/6/0/1160-medium_default.jpg",
+        "https://mornarstore.com/img/p/1/1/6/1/1161-large_default.jpg"
+      ]
+        },
+      {
+      "id": 5002,
+      "name": "Flesh and Blood: Welcome to rathe - Booster Pack",
+      "price": 500,
+      "description": "",
+      "stock": 10,
+      "collection": "Welcome To Rathe",
+      "tags": ["magic", "ingles", "booster pack", "welcome to rathe"],
+      "img": [
+        "https://mornarstore.com/img/p/1/1/8/4/1184-large_default.jpg",
+        "https://mornarstore.com/img/p/1/1/8/3/1183-large_default.jpg"
+      ]
+        }
   ]
 }
