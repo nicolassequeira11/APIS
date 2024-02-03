@@ -51,7 +51,7 @@
       ]
       },
       {
-      "id": 1002,
+      "id": 1001,
       "name": "Yu-Gi-Oh! Baraja de Estructura: Reyes de Fuego",
       "price": 1300,
       "description": "",
@@ -63,7 +63,7 @@
       ]
       },
       {
-      "id": 1003,
+      "id": 1002,
       "name": "Yu-Gi-Oh! La Colección Legendaria: Edición 25º Aniversario",
       "price": 2390,
       "description": "",
@@ -72,6 +72,44 @@
       "img": [
         "https://img.yugioh-card.com/eu/wp-content/uploads/2023/02/LCO1-Box-01-SP-2.webp",
         "https://img.yugioh-card.com/eu/wp-content/uploads/2023/02/LCO1-Box-02-SP-1.webp"
+      ]
+      }
+  ]
+  "onepiece": [
+      {
+      "id": 2001,
+      "name": "One Piece: Premium Card Collection One Piece Red [Inglés]",
+      "price": 3290,
+      "description": "",
+      "stock": 2,
+      "tags": ["one piece", "ingles", "otros"],
+      "img": [
+        "https://www.cardtrader.com/uploads/blueprints/image/265130/premium-card-collection-one-piece-film-red-edition-12-card-complete-set-one-piece-products.jpg",
+        "https://www.mirajtrading.com/cdn/shop/products/raw_e43b9717-8a0b-4721-8662-ff028da61868.jpg?v=1680533627&width=1200"
+      ]
+      },
+      {
+      "id": 2001,
+      "name": "One Piece: Starter Deck ST-01 Straw Hat Crew [Inglés]",
+      "price": 1190,
+      "description": "",
+      "stock": 2,
+      "tags": ["one piece", "straw hat crew", "deck", "ingles"],
+      "img": [
+        "https://www.gameology.com.au/cdn/shop/products/1_1c07860e-5b16-43f6-b695-29231f344794_1200x1200.jpg?v=1678100719",
+        "https://www.gameology.com.au/cdn/shop/products/bac05_1200x1200.jpg?v=1678100719"
+      ]
+      },
+      {
+      "id": 2002,
+      "name": "One Piece: GC-01 Gift Collection 2023",
+      "price": 2390,
+      "description": "",
+      "stock": 10,
+      "tags": ["yugioh", "aniversario", "español"],
+      "img": [
+        "https://f.fcdn.app/imgs/4bb026/www.xuruguay.com.uy/xuruuy/df07/webp/catalogo/8100597820448100597820441/460x460/one-piece-gc-01-gift-collection-2023-one-piece-gc-01-gift-collection-2023.jpg",
+        "https://f.fcdn.app/imgs/47821a/www.xuruguay.com.uy/xuruuy/88dc/webp/catalogo/8100597820448100597820442/460x460/one-piece-gc-01-gift-collection-2023-one-piece-gc-01-gift-collection-2023.jpg"
       ]
       }
   ]
