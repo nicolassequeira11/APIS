@@ -112,5 +112,37 @@
         "https://f.fcdn.app/imgs/47821a/www.xuruguay.com.uy/xuruuy/88dc/webp/catalogo/8100597820448100597820442/460x460/one-piece-gc-01-gift-collection-2023-one-piece-gc-01-gift-collection-2023.jpg"
       ]
       }
+  ],
+  "onepiece": [
+      {
+      "id": 3000,
+      "name": "Digimon Card Game Booster: Classic Collection [Inglés]",
+      "price": 350,
+      "description": "",
+      "stock": 2,
+      "collection": "Classic Collection",
+      "tags": ["digimon", "ingles", "booster", "classic collection"],
+      "img": "https://f.fcdn.app/imgs/befce4/www.xuruguay.com.uy/xuruuy/869b/webp/catalogo/8110390357548110390357541/460x460/digimon-card-game-booster-classic-collection-ingles-digimon-card-game-booster-classic-collection-ingles.jpg"
+      },
+      {
+      "id": 3001,
+      "name": "Digimon Card Game Booster: Next Adventure [Inglés]",
+      "price": 450,
+      "description": "",
+      "stock": 2,
+      "collection": "Next Adventure",
+      "tags": ["digimon", "ingles", "booster", "next adventure"],
+      "img": "https://f.fcdn.app/imgs/fa8252/www.xuruguay.com.uy/xuruuy/396b/webp/catalogo/8110390362188110390362181/460x460/digimon-card-game-booster-next-adventure-ingles-digimon-card-game-booster-next-adventure-ingles.jpg"
+      },
+      {
+      "id": 3002,
+      "name": "Digimon Card Game Booster: Animal Colosseum [Inglés]",
+      "price": 340,
+      "description": "",
+      "stock": 10,
+      "collection": "Animal Colosseum",
+      "tags": ["digimon", "ingles", "booster", "Animal Colosseum"],
+      "img": "https://f.fcdn.app/imgs/4bb026/www.xuruguay.com.uy/xuruuy/df07/webp/catalogo/8100597820448100597820441/460x460/one-piece-gc-01-gift-collection-2023-one-piece-gc-01-gift-collection-2023.jpg"
+      }
   ]
 }
