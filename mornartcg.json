@@ -59,6 +59,18 @@
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8969_699-85475_01.jpg",
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8969_699-85475_02.jpg"
       ]
+    },
+      {
+      "id": 6,
+      "name": "Pokémon TCG: Silver Tempest Pokémon Center Elite Trainer Box",
+      "price": 4000,
+      "description": "",
+      "stock": 3,
+      "tags": ["pokemon", "silver tempest", "elite trainer box", "ingles"],
+      "img": [
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8696_183-85162_01.jpg",
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8696_183-85162_02.jpg"
+      ]
     }
   ],
   "yugioh": [
