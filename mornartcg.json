@@ -6,6 +6,7 @@
       "price": 4190,
       "description": "",
       "stock": 15,
+        "collection": "Paldean Fates",
       "tags": ["pokemon", "paldean fates", "elite trainer box", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P9537_290-85619_01.jpg",
@@ -18,6 +19,7 @@
       "price": 6400,
       "description": "",
       "stock": 4,
+        "collection": "Paradox Rift",
       "tags": ["pokemon", "paradox rift", "booster box", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8981_699-85399_01.jpg",
@@ -30,6 +32,7 @@
       "price": 1300,
       "description": "",
       "stock": 10,
+      "collection": "Obsidian Flames",
       "tags": ["pokemon", "obsidian flames", "booster packs", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8979_699-85379_01.jpg",
@@ -42,6 +45,7 @@
       "price": 880,
       "description": "",
       "stock": 3,
+      "collection": "151",
       "tags": ["pokemon", "151", "collection", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P9433_290-85313_01.jpg",
@@ -54,6 +58,7 @@
       "price": 400,
       "description": "",
       "stock": 3,
+      "collection": "151",
       "tags": ["pokemon", "151", "mini tin", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8969_699-85475_01.jpg",
@@ -66,6 +71,7 @@
       "price": 4000,
       "description": "",
       "stock": 3,
+      "collection": "Silver Tempest",
       "tags": ["pokemon", "silver tempest", "elite trainer box", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8696_183-85162_01.jpg",
@@ -80,6 +86,7 @@
       "price": 2000,
       "description": "",
       "stock": 2,
+      "collection": "Aniversario",
       "tags": ["yugioh", "lata", "aniversario", "español"],
       "img": [
         "https://devir.com.ar/wp-content/uploads/2023/09/2023-Tin_550.png",
@@ -92,6 +99,7 @@
       "price": 1300,
       "description": "",
       "stock": 2,
+      "collection": "Fire Kings",
       "tags": ["yugioh", "fire kings", "deck", "español"],
       "img": [
         "https://img.yugioh-card.com/eu/wp-content/uploads/2023/08/SR14-Tuck-01-SP.webp",
@@ -104,6 +112,7 @@
       "price": 2390,
       "description": "",
       "stock": 10,
+      "collection": "Aniversario",
       "tags": ["yugioh", "aniversario", "español"],
       "img": [
         "https://devir.com.ar/wp-content/uploads/2023/05/LC1_Reprint_25thAnnivEdition.png",
@@ -118,6 +127,7 @@
       "price": 3290,
       "description": "",
       "stock": 2,
+      "collection": "Otros",
       "tags": ["one piece", "ingles", "otros"],
       "img": [
         "https://www.cardtrader.com/uploads/blueprints/image/265130/premium-card-collection-one-piece-film-red-edition-12-card-complete-set-one-piece-products.jpg",
@@ -130,6 +140,7 @@
       "price": 1190,
       "description": "",
       "stock": 2,
+      "collection": "Straw Hat Crew",
       "tags": ["one piece", "straw hat crew", "deck", "ingles"],
       "img": [
         "https://f.fcdn.app/imgs/4e9f9b/www.xuruguay.com.uy/xuruuy/2e54/webp/catalogo/8110390383668110390383661/460x460/one-piece-starter-deck-st-01-straw-hat-crew-ingles-one-piece-starter-deck-st-01-straw-hat-crew-ingles.jpg",
@@ -142,6 +153,7 @@
       "price": 2390,
       "description": "",
       "stock": 10,
+      "collection": "Otros",
       "tags": ["one piece", "ingles"],
       "img": [
         "https://f.fcdn.app/imgs/4bb026/www.xuruguay.com.uy/xuruuy/df07/webp/catalogo/8100597820448100597820441/460x460/one-piece-gc-01-gift-collection-2023-one-piece-gc-01-gift-collection-2023.jpg",
