@@ -6,7 +6,7 @@
       "price": 4190,
       "description": "",
       "stock": 15,
-      "collection": {"label":"Paldean Fates", "value":"Paldean Fates"},
+      "collection": "Paldean Fates",
       "tags": ["pokemon", "paldean fates", "elite trainer box", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P9537_290-85619_01.jpg",
