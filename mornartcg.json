@@ -19,7 +19,7 @@
       "price": 6400,
       "description": "",
       "stock": 4,
-        "collection": "Paradox Rift",
+      "collection": "Paradox Rift",
       "tags": ["pokemon", "paradox rift", "booster box", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8981_699-85399_01.jpg",
@@ -105,6 +105,36 @@
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8977_290-85323_03.jpg",
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8977_290-85323_04.jpg",
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8977_290-85323_06.jpg"
+      ]
+    }
+    {
+      "id": 9,
+      "name": "Pokémon TCG: Dragonite V Box",
+      "price": 1300,
+      "description": "",
+      "stock": 3,
+      "collection": "V Box",
+      "tags": ["pokemon", "v box", "ingles"],
+      "img": [
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P7074_290-80903_01.jpg",
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P7074_290-80903_03.jpg",
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P7074_290-80903_02.jpg",
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P7074_290-80903_05.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Pokémon TCG: Astral Radiance Booster Display Box (36 Packs)",
+      "price": 6400,
+      "description": "",
+      "stock": 0,
+      "collection": "Astral Radiance",
+      "tags": ["pokemon", "astral radiance", "booster box", "ingles"],
+      "img": [
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8153_699-86023_01.jpg",
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8153_699-86023_03.jpg",
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8153_699-86023_02.jpg",
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8153_699-86023_04.jpg"
       ]
     }
   ],
