@@ -252,11 +252,48 @@
       "description": "",
       "stock": 0,
       "collection": "Kingdoms of Intrigue",
-      "tags": ["one piece", "booster box", "ingles"],
+      "tags": ["one piece", "kingdoms of intrigue", "booster box", "ingles"],
       "img": [
         "https://cardotaku.com/cdn/shop/products/61OZZZidWCL._AC_SL1200.png?v=1679465261&width=800",
         "https://cardotaku.com/cdn/shop/products/81pEhtjSSVL._AC_SL1500.png?v=1690705490&width=800",
         "https://cardotaku.com/cdn/shop/products/61UwkNeROvL._AC_SL1200.png?v=1690705490&width=800"        ]
+      },
+      {
+      "id": 2006,
+      "name": "One Piece TCG: Pillars of Strength Booster Pack Box (OP-03)",
+      "price": 4500,
+      "description": "",
+      "stock": 2,
+      "collection": "Pillars of Strength",
+      "tags": ["one piece", "pillars of strength", "booster box", "ingles"],
+      "img": [
+        "https://cardotaku.com/cdn/shop/products/61ZaTCBUTIL._AC_SL1200.png?v=1674625959&width=800",
+        "https://cardotaku.com/cdn/shop/products/61bwb6wSFTL._AC_SL1200.png?v=1675480513&width=800"
+      },
+      {
+      "id": 2007,
+      "name": "One Piece TCG: Paramount War Booster Pack Box (OP-02)",
+      "price": 4500,
+      "description": "",
+      "stock": 5,
+      "collection": "Paramount War",
+      "tags": ["one piece", "paramount war", "booster box", "ingles"],
+      "img": [
+        "https://cardotaku.com/cdn/shop/products/61mkFuCg28L._AC_SL1095.png?v=1667010250&width=800",
+        "https://cardotaku.com/cdn/shop/products/716XT6MJJpL._AC_SL1500.png?v=1706140579&width=800"
+      }
+      {
+      "id": 2008,
+      "name": "One Piece TCG: Romance Dawn Booster Pack Box (OP-02)",
+      "price": 4500,
+      "description": "",
+      "stock": 0,
+      "collection": "Romance Dawn",
+      "tags": ["one piece", "romance dawn", "booster box", "ingles"],
+      "img": [
+        "https://cardotaku.com/cdn/shop/products/61sPfitqInL._AC_SL1200.png?v=1658372283&width=800",
+        "https://cardotaku.com/cdn/shop/products/81Xmv1TgQEL._AC_SL1500.png?v=1658372283&width=800",
+        "https://cardotaku.com/cdn/shop/products/61Lu0yce2jL._AC_SL1200.png?v=1658372283&width=800",
       }
   ],
   "digimon": [
