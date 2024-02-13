@@ -8,6 +8,7 @@
       "stock": 15,
       "collection": "Paldean Fates",
       "type": "Elite Trainer Box",
+      "tcg": "pokemon",
       "tags": ["pokemon", "paldean fates", "elite trainer box", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P9537_290-85619_01.jpg",
@@ -22,6 +23,7 @@
       "stock": 4,
       "collection": "Paradox Rift",
       "type": "Booster Box",
+        "tcg": "pokemon",
       "tags": ["pokemon", "paradox rift", "booster box", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8981_699-85399_01.jpg",
@@ -36,6 +38,7 @@
       "stock": 0,
       "collection": "Obsidian Flames",
       "type": "Booster Packs",
+        "tcg": "pokemon",
       "tags": ["pokemon", "obsidian flames", "booster packs", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8979_699-85379_01.jpg",
@@ -51,6 +54,7 @@
       "collection": "151",
       "type": "Collection",
       "tags": ["pokemon", "151", "collection", "ingles"],
+        "tcg": "pokemon",
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P9433_290-85313_01.jpg",
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P9433_290-85313_02.jpg"
@@ -65,6 +69,7 @@
       "collection": "151",
       "type": "Mini Tin",
       "tags": ["pokemon", "151", "mini tin", "ingles"],
+        "tcg": "pokemon",
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8969_699-85475_01.jpg",
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8969_699-85475_02.jpg"
@@ -79,6 +84,7 @@
       "collection": "Silver Tempest",
       "type": "Elite Trainer Box",
       "tags": ["pokemon", "silver tempest", "elite trainer box", "ingles"],
+        "tcg": "pokemon",
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8696_183-85162_01.jpg",
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8696_183-85162_02.jpg"
@@ -93,6 +99,7 @@
       "collection": "Brilliant Stars",
       "type": "Elite Trainer Box",
       "tags": ["pokemon", "brilliant stars", "elite trainer box", "ingles"],
+      "tcg": "pokemon",
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P7914_180-85006_01.jpg",
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P7914_180-85006_02.jpg"
@@ -107,6 +114,7 @@
       "collection": "Premium Collection",
       "type": "Collection",
       "tags": ["pokemon", "premium collection", "ingles"],
+      "tcg": "pokemon",
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8977_290-85323_01.jpg",
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8977_290-85323_02.jpg",
@@ -124,6 +132,7 @@
       "collection": "V Box",
       "type": "Collection",
       "tags": ["pokemon", "v box", "ingles"],
+      "tcg": "pokemon",
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P7074_290-80903_01.jpg",
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P7074_290-80903_03.jpg",
@@ -140,6 +149,7 @@
       "collection": "Astral Radiance",
       "type": "Booster Box",
       "tags": ["pokemon", "astral radiance", "booster box", "ingles"],
+      "tcg": "pokemon",
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8153_699-86023_01.jpg",
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8153_699-86023_03.jpg",
@@ -156,6 +166,7 @@
       "collection": "151",
       "type": "Collection",
       "tags": ["pokemon", "151", "ultra premium collection", "ingles"],
+      "tcg": "pokemon",
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8975_290-85541_01.jpg",
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8975_290-85541_02.jpg",
@@ -176,6 +187,7 @@
       "collection": "Aniversario",
       "type": "Lata",
       "tags": ["yugioh", "lata", "aniversario", "español"],
+      "tcg": "yugioh",
       "img": [
         "https://img.yugioh-card.com/eu/wp-content/uploads/2023/04/TIN-2023-Camera-01.png",
         "https://img.yugioh-card.com/eu/wp-content/uploads/2023/04/TIN-2023-Camera-01.png"
@@ -190,6 +202,7 @@
       "collection": "Gold Rush",
       "type": "Booster Box",
       "tags": ["yugioh", "gold rush", "japones"],
+        "tcg": "yugioh",
       "img": [
         "https://cardotaku.com/cdn/shop/products/81V3DyqkRML._AC_SL1500.png?v=1657514275&width=800",
         "https://cardotaku.com/cdn/shop/products/introduction-1.jpg?v=1657514275&width=600",
@@ -205,6 +218,7 @@
       "collection": "Aniversario",
       "type": "Lata",
       "tags": ["yugioh", "aniversario", "español"],
+        "tcg": "yugioh",
       "img": [
         "https://f.fcdn.app/imgs/a9ee65/www.xuruguay.com.uy/xuruuy/9f04/original/catalogo/0837178604330837178604331/1920-1200/yu-gi-oh-legendary-collection-25th-anniversary-edition-ingles-yu-gi-oh-legendary-collection-25th-anniversary-edition-ingles.jpg",
         "https://http2.mlstatic.com/D_Q_NP_840627-MLU72090447198_102023-O.webp"
@@ -219,6 +233,7 @@
       "collection": "Battle of Chaos",
       "type": "Booster Box",
       "tags": ["yugioh", "battle of chaos", "booster box", "ingles"],
+        "tcg": "yugioh",
       "img": [
         "https://cardotaku.com/cdn/shop/products/91X6P7-3GAL._AC_SL1500.jpg?v=1636528949&width=800",
         "https://img.yugioh-card.com/en/wp-content/uploads/2021/10/BACH_550-1.png"
@@ -233,6 +248,7 @@
       "collection": "Phantom Rage",
         "type": "Booster Box",
       "tags": ["yugioh", "phantom rage", "booster box", "ingles"],
+        "tcg": "yugioh",
       "img": [
         "https://cardotaku.com/cdn/shop/products/71D3l5w8PmL._AC_SL1000.jpg?v=1639542322&width=800",
         "https://m.media-amazon.com/images/I/81ggTdjcVKL._AC_UF894,1000_QL80_.jpg"
@@ -261,6 +277,7 @@
       "collection": "Dimension Force",
         "type": "Booster Box",
       "tags": ["yugioh", "dimension force", "booster box", "ingles"],
+        "tcg": "yugioh",
       "img": [
         "https://cardotaku.com/cdn/shop/products/71dVyr6_MwL._AC_SL1197.jpg?v=1642570578&width=800",
         "https://f.fcdn.app/imgs/fc0e30/www.xuruguay.com.uy/xuruuy/9aa5/original/catalogo/0837178568010837178568011/1920-1200/booster-yu-gi-oh-dimension-force-ingles.jpg"
@@ -275,6 +292,7 @@
       "collection": "Extreme Force",
         "type": "Booster Box",
       "tags": ["yugioh", "extreme force", "booster box", "ingles"],
+        "tcg": "yugioh",
       "img": [
         "https://cardotaku.com/cdn/shop/products/71FP0UGVJrL._AC_SL1027.jpg?v=1630640874&width=800",
         "https://static.wikia.nocookie.net/yugioh/images/0/0f/EXFO-BoosterEN.png/revision/latest?cb=20170921004142"
@@ -289,6 +307,7 @@
       "collection": "Dawn of Majesty",
         "type": "Booster Box",
       "tags": ["yugioh", "dawn of majesty", "booster box", "ingles"],
+        "tcg": "yugioh",
       "img": [
         "https://cardotaku.com/cdn/shop/products/91r_oqM_Q8L._AC_SL1500.jpg?v=1618729974&width=800",
         "https://product-images.tcgplayer.com/241143.jpg"
@@ -303,6 +322,7 @@
       "collection": "Duelist of the Abyss",
         "type": "Deck Build Pack",
       "tags": ["yugioh", "duelist of the abyss", "deck build pack", "ingles"],
+        "tcg": "yugioh",
       "img": [
         "https://cardotaku.com/cdn/shop/products/81h9ifkk9_L._AC_SL1500.jpg?v=1637560732&width=800",
         "https://acecards.com/cdn/shop/products/Konami-Yu-Gi-Oh-OCG-Duelist-Pack-Duelists-of-the-Abyss-DP26-Japanese-Booster-Pack-Random-2_1024x1024.jpg?v=1637964044"
@@ -319,6 +339,7 @@
       "collection": "Otros",
       "type": "Otros",
       "tags": ["one piece", "ingles", "otros"],
+        "tcg": "onepiece",
       "img": [
         "https://www.cardtrader.com/uploads/blueprints/image/265130/premium-card-collection-one-piece-film-red-edition-12-card-complete-set-one-piece-products.jpg",
         "https://www.mirajtrading.com/cdn/shop/products/raw_e43b9717-8a0b-4721-8662-ff028da61868.jpg?v=1680533627&width=1200"
@@ -333,6 +354,7 @@
       "collection": "Straw Hat Crew",
         "type": "Starter Deck",
       "tags": ["one piece", "straw hat crew", "deck", "ingles"],
+        "tcg": "onepiece",
       "img": [
         "https://f.fcdn.app/imgs/4e9f9b/www.xuruguay.com.uy/xuruuy/2e54/webp/catalogo/8110390383668110390383661/460x460/one-piece-starter-deck-st-01-straw-hat-crew-ingles-one-piece-starter-deck-st-01-straw-hat-crew-ingles.jpg",
         "https://www.gameology.com.au/cdn/shop/products/bac05_1200x1200.jpg?v=1678100719"
@@ -347,6 +369,7 @@
       "collection": "Otros",
         "type": "Otros",
       "tags": ["one piece", "ingles"],
+        "tcg": "onepiece",
       "img": [
         "https://f.fcdn.app/imgs/4bb026/www.xuruguay.com.uy/xuruuy/df07/webp/catalogo/8100597820448100597820441/460x460/one-piece-gc-01-gift-collection-2023-one-piece-gc-01-gift-collection-2023.jpg",
         "https://f.fcdn.app/imgs/47821a/www.xuruguay.com.uy/xuruuy/88dc/webp/catalogo/8100597820448100597820442/460x460/one-piece-gc-01-gift-collection-2023-one-piece-gc-01-gift-collection-2023.jpg"
@@ -361,6 +384,7 @@
       "collection": "Awakening of the New Era",
         "type": "Booster Box",
       "tags": ["one piece", "awakening of the new era", "ingles"],
+        "tcg": "onepiece",
       "img": [
         "https://www.totalcards.net/media/simbeez_webp/catalog/product/cache/7635224f4fa597d4a3e42d3638e7f61a/a/w/awakening-the-new-era-booster-box.webp",
         "https://www.totalcards.net/media/simbeez_webp/catalog/product/cache/7635224f4fa597d4a3e42d3638e7f61a/a/w/awakening-of-new-era-bp_1.webp"
@@ -375,6 +399,7 @@
       "collection": "Starter Deck",
       "type": "Starter Deck",
       "tags": ["one piece", "starter deck", "ingles"],
+        "tcg": "onepiece",
       "img": [
         "https://www.totalcards.net/media/simbeez_webp/catalog/product/cache/7635224f4fa597d4a3e42d3638e7f61a/w/o/worst-generation-one-piece-card-game-starter-deck-eng.webp",
         "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-001.png?240202"
@@ -389,6 +414,7 @@
       "collection": "Kingdoms of Intrigue",
       "type": "Booster Box",
       "tags": ["one piece", "kingdoms of intrigue", "booster box", "ingles"],
+        "tcg": "onepiece",
       "img": [
         "https://cardotaku.com/cdn/shop/products/61OZZZidWCL._AC_SL1200.png?v=1679465261&width=800",
         "https://cardotaku.com/cdn/shop/products/81pEhtjSSVL._AC_SL1500.png?v=1690705490&width=800",
@@ -404,6 +430,7 @@
       "collection": "Pillars of Strength",
         "type": "Booster Box",
       "tags": ["one piece", "pillars of strength", "booster box", "ingles"],
+        "tcg": "onepiece",
       "img": [
         "https://cardotaku.com/cdn/shop/products/61ZaTCBUTIL._AC_SL1200.png?v=1674625959&width=800",
         "https://cardotaku.com/cdn/shop/products/61bwb6wSFTL._AC_SL1200.png?v=1675480513&width=800"
@@ -418,6 +445,7 @@
       "collection": "Paramount War",
         "type": "Booster Box",
       "tags": ["one piece", "paramount war", "booster box", "ingles"],
+        "tcg": "onepiece",
       "img": [
         "https://cardotaku.com/cdn/shop/products/61mkFuCg28L._AC_SL1095.png?v=1667010250&width=800",
         "https://cardotaku.com/cdn/shop/products/716XT6MJJpL._AC_SL1500.png?v=1706140579&width=800"
@@ -432,6 +460,7 @@
       "collection": "Romance Dawn",
         "type": "Booster Box",
       "tags": ["one piece", "romance dawn", "booster box", "ingles"],
+        "tcg": "onepiece",
       "img": [
         "https://cardotaku.com/cdn/shop/products/61sPfitqInL._AC_SL1200.png?v=1658372283&width=800",
         "https://cardotaku.com/cdn/shop/products/81Xmv1TgQEL._AC_SL1500.png?v=1658372283&width=800",
@@ -447,6 +476,7 @@
       "collection": "Awakening of the New Era",
         "type": "Booster Box",
       "tags": ["one piece", "awakening of the new era", "booster box", "ingles"],
+        "tcg": "onepiece",
       "img": [
         "https://cardotaku.com/cdn/shop/files/op-05-one-piece-card-game-booster-pack-awakening-of-the-new-era-box.png?v=1692252862&width=800",
         "https://cardotaku.com/cdn/shop/files/op-05-one-piece-card-game-booster-pack-awakening-of-the-new-era-booster.png?v=1692252862&width=800",
@@ -464,6 +494,7 @@
       "collection": "Classic Collection",
         "type": "Booster",
       "tags": ["digimon", "ingles", "booster", "classic collection"],
+        "tcg": "digimon",
       "img": [
         "https://f.fcdn.app/imgs/befce4/www.xuruguay.com.uy/xuruuy/869b/webp/catalogo/8110390357548110390357541/460x460/digimon-card-game-booster-classic-collection-ingles-digimon-card-game-booster-classic-collection-ingles.jpg",
         "https://pandemoniumbooks.com/cdn/shop/products/inventoryimage__86024.1627097153_large.png?v=1643046036"
@@ -478,6 +509,7 @@
       "collection": "Next Adventure",
         "type": "Booster",
       "tags": ["digimon", "ingles", "booster", "next adventure"],
+        "tcg": "digimon",
       "img": [
         "https://f.fcdn.app/imgs/fa8252/www.xuruguay.com.uy/xuruuy/396b/webp/catalogo/8110390362188110390362181/460x460/digimon-card-game-booster-next-adventure-ingles-digimon-card-game-booster-next-adventure-ingles.jpg",
         "https://i0.wp.com/criticalhit.com.au/wp-content/uploads/2022/03/digimon07.webp?fit=500%2C500&ssl=1"
@@ -492,6 +524,7 @@
       "collection": "Animal Colosseum",
         "type": "Booster",
       "tags": ["digimon", "ingles", "booster", "Animal Colosseum"],
+        "tcg": "digimon",
       "img": [
         "https://f.fcdn.app/imgs/6d3efe/www.xuruguay.com.uy/xuruuy/def7/webp/catalogo/8100597834618100597834611/460x460/digimon-card-game-booster-animal-colosseum-ingles-digimon-card-game-booster-animal-colosseum-ingles.jpg",
         "https://media.miniaturemarket.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/a/ban2705241-box_1.jpg"
@@ -506,6 +539,7 @@
       "collection": "Rising Wind",
         "type": "Booster Box",
       "tags": ["digimon", "ingles", "booster box", "rising wind"],
+        "tcg": "digimon",
       "img": [
         "https://cardotaku.com/cdn/shop/products/81rBdkHgD0L._AC_SL1500.png?v=1674806156&width=800",
         "https://cardotaku.com/cdn/shop/products/71c0ujm-ebL._AC_SL1500.png?v=1674806156&width=800"
@@ -520,6 +554,7 @@
       "collection": "War Dragon of Courage",
         "type": "Starter Deck",
       "tags": ["digimon", "ingles", "booster box", "war dragon of courage"],
+        "tcg": "digimon",
       "img": [
         "https://cardotaku.com/cdn/shop/files/71p6fpXpA8L._AC_SL1500.png?v=1684998143&width=800",
         "https://i.ebayimg.com/images/g/fZEAAOSwrnxkTTYJ/s-l1200.jpg"
@@ -534,6 +569,7 @@
       "collection": "Ultimate Power",
         "type": "Booster Box",
       "tags": ["digimon", "ingles", "booster box", "ultimate power"],
+        "tcg": "digimon",
       "img": [
         "https://cardotaku.com/cdn/shop/products/91YSnCdkHNL._AC_SL1500.jpg?v=1595320650&width=800",
         "https://cardotaku.com/cdn/shop/products/81_4PMBTizL._AC_SL1500.jpg?v=1595320654&width=700"
@@ -548,6 +584,7 @@
       "collection": "Exceed Apocalypse",
         "type": "Booster Box",
       "tags": ["digimon", "ingles", "booster box", "exceed apocalypse"],
+        "tcg": "digimon",
       "img": [
         "https://cardotaku.com/cdn/shop/files/91RbrvUm3cL._AC_SL1500.png?v=1695883901&width=800",
         "https://cardotaku.com/cdn/shop/files/71Eu2SsDMAL._AC_SL1500.png?v=1695883901&width=800",
@@ -563,6 +600,7 @@
       "collection": "New Hero",
         "type": "Booster Box",
       "tags": ["digimon", "ingles", "booster box", "new hero"],
+        "tcg": "digimon",
       "img": [
         "https://cardotaku.com/cdn/shop/products/912alxA3a8L._AC_SL1500.jpg?v=1637983647&width=800",
         "https://cardotaku.com/cdn/shop/products/71CpALGz3_L._AC_SL1500.jpg?v=1637983666&width=700",
@@ -578,6 +616,7 @@
       "collection": "Metal Wolf of Friendship",
         "type": "Starter Deck",
       "tags": ["digimon", "ingles", "starter pack", "metal wolf of friendship"],
+        "tcg": "digimon",
       "img": [
         "https://cardotaku.com/cdn/shop/files/71mKNP7CZGL._AC_SL1500.png?v=1684998491&width=800",
         "https://en.digimoncard.com/images/cardlist/card/ST16-12.png"
@@ -592,6 +631,7 @@
       "collection": "Double Diamond",
         "type": "Booster Box",
       "tags": ["digimon", "ingles", "booster box", "double diamond"],
+        "tcg": "digimon",
       "img": [
         "https://cardotaku.com/cdn/shop/products/91_erhk3OKS._AC_SL1500.jpg?v=1630029852&width=800",
         "https://cardotaku.com/cdn/shop/products/814Gj2n9BQS._AC_SL1500.jpg?v=1630029852&width=700"
@@ -608,6 +648,7 @@
       "collection": "Phyrexia All Will Be One",
         "type": "Booster",
       "tags": ["magic", "ingles", "booster", "phyrexia all will be one"],
+        "tcg": "magic",
       "img": [
         "https://f.fcdn.app/imgs/4c0bda/www.xuruguay.com.uy/xuruuy/bddc/webp/catalogo/1951661848381951661848381/460x460/phyrexia-all-will-be-one-draft-booster-ingles-phyrexia-all-will-be-one-draft-booster-ingles.jpg",
         "https://f.fcdn.app/imgs/dffb4f/www.xuruguay.com.uy/xuruuy/370a/webp/catalogo/1951661848381951661848382/460x460/phyrexia-all-will-be-one-draft-booster-ingles-phyrexia-all-will-be-one-draft-booster-ingles.jpg"
@@ -622,6 +663,7 @@
       "collection": "March of the Machine The Aftermath",
         "type": "Bundle",
       "tags": ["magic", "ingles", "bundle", "march of the machine the aftermath"],
+        "tcg": "magic",
       "img": [
         "https://f.fcdn.app/imgs/5306a8/www.xuruguay.com.uy/xuruuy/a7e4/webp/catalogo/1951662138731951662138731/460x460/march-of-the-machine-the-aftermath-bundle-ingles-march-of-the-machine-the-aftermath-bundle-ingles.jpg",
         "https://f.fcdn.app/imgs/4294c3/www.xuruguay.com.uy/xuruuy/2c65/webp/catalogo/1951662138731951662138732/460x460/march-of-the-machine-the-aftermath-bundle-ingles-march-of-the-machine-the-aftermath-bundle-ingles.jpg"
@@ -636,6 +678,7 @@
       "collection": "Adventures in the Forgotten Realms",
         "type": "Booster",
       "tags": ["magic", "ingles", "booster", "adventures in the forgotten realms"],
+        "tcg": "magic",
       "img": [
         "https://f.fcdn.app/imgs/e60c81/www.xuruguay.com.uy/xuruuy/009e/webp/catalogo/6305099828686305099828681/460x460/set-booster-adventures-in-the-forgotten-realms-ingles-set-booster-adventures-in-the-forgotten-realms-ingles.jpg",
         "https://f.fcdn.app/imgs/50bac3/www.xuruguay.com.uy/xuruuy/6dcf/webp/catalogo/6305099828686305099828682/460x460/set-booster-adventures-in-the-forgotten-realms-ingles-set-booster-adventures-in-the-forgotten-realms-ingles.jpg"
@@ -652,6 +695,7 @@
       "collection": "Phyrexia All Will Be One",
         "type": "Deck",
       "tags": ["flesh and blood", "ingles", "deck", "outsiders"],
+        "tcg": "fleshandblood",
       "img": [
         "https://thirstymeeples.co.uk/cdn/shop/products/FleshAndBloodTCGOutsidersBlitzDeck_1_2000x.png?v=1679079300",
         "https://thirstymeeples.co.uk/cdn/shop/products/FleshAndBloodTCGOutsidersBlitzDeck_1_2000x.png?v=1679079300"
@@ -666,6 +710,7 @@
       "collection": "Dusk Till Dawn",
         "type": "Booster",
       "tags": ["flesh and blood", "ingles", "booster pack", "dusk till dawn"],
+        "tcg": "fleshandblood",
       "img": [
         "https://mornarstore.com/img/p/1/1/6/0/1160-medium_default.jpg",
         "https://mornarstore.com/img/p/1/1/6/1/1161-large_default.jpg"
@@ -680,6 +725,7 @@
       "collection": "Welcome To Rathe",
         "type": "Booster",
       "tags": ["magic", "ingles", "booster pack", "welcome to rathe"],
+        "tcg": "fleshandblood",
       "img": [
         "https://mornarstore.com/img/p/1/1/8/4/1184-large_default.jpg",
         "https://mornarstore.com/img/p/1/1/8/3/1183-large_default.jpg"
