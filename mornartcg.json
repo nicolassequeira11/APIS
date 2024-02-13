@@ -6,7 +6,7 @@
       "price": 4190,
       "description": "",
       "stock": 15,
-      "collection": ["Paldean Fates"],
+      "collection": "Paldean Fates",
       "tags": ["pokemon", "paldean fates", "elite trainer box", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P9537_290-85619_01.jpg",
@@ -19,7 +19,7 @@
       "price": 6400,
       "description": "",
       "stock": 4,
-      "collection": ["Paradox Rift"],
+      "collection": "Paradox Rift",
       "tags": ["pokemon", "paradox rift", "booster box", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8981_699-85399_01.jpg",
@@ -32,7 +32,7 @@
       "price": 1300,
       "description": "",
       "stock": 0,
-      "collection": ["Obsidian Flames"],
+      "collection": "Obsidian Flames",
       "tags": ["pokemon", "obsidian flames", "booster packs", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8979_699-85379_01.jpg",
@@ -45,7 +45,7 @@
       "price": 880,
       "description": "",
       "stock": 3,
-      "collection": ["151"],
+      "collection": "151",
       "tags": ["pokemon", "151", "collection", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P9433_290-85313_01.jpg",
@@ -58,7 +58,7 @@
       "price": 400,
       "description": "",
       "stock": 3,
-      "collection": ["151"],
+      "collection": "151",
       "tags": ["pokemon", "151", "mini tin", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8969_699-85475_01.jpg",
@@ -71,7 +71,7 @@
       "price": 4000,
       "description": "",
       "stock": 3,
-      "collection": ["Silver Tempest"],
+      "collection": "Silver Tempest",
       "tags": ["pokemon", "silver tempest", "elite trainer box", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8696_183-85162_01.jpg",
@@ -84,7 +84,7 @@
       "price": 4000,
       "description": "",
       "stock": 0,
-      "collection": ["Brilliant Stars"],
+      "collection": "Brilliant Stars",
       "tags": ["pokemon", "brilliant stars", "elite trainer box", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P7914_180-85006_01.jpg",
@@ -97,7 +97,7 @@
       "price": 1800,
       "description": "",
       "stock": 5,
-      "collection": ["Premium Collection"],
+      "collection": "Premium Collection",
       "tags": ["pokemon", "premium collection", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8977_290-85323_01.jpg",
@@ -113,7 +113,7 @@
       "price": 1300,
       "description": "",
       "stock": 3,
-      "collection": ["V Box"],
+      "collection": "V Box",
       "tags": ["pokemon", "v box", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P7074_290-80903_01.jpg",
@@ -128,7 +128,7 @@
       "price": 6400,
       "description": "",
       "stock": 0,
-      "collection": ["Astral Radiance"],
+      "collection": "Astral Radiance",
       "tags": ["pokemon", "astral radiance", "booster box", "ingles"],
       "img": [
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8153_699-86023_01.jpg",
