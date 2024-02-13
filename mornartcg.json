@@ -406,6 +406,46 @@
         "https://cardotaku.com/cdn/shop/files/71Eu2SsDMAL._AC_SL1500.png?v=1695883901&width=800",
         "https://cardotaku.com/cdn/shop/files/813ersz1-WL._AC_SL1500.png?v=1695883901&width=800"
       ]
+      },
+      {
+      "id": 3007,
+      "name": "Digimon Card Game: New Hero Booster Box (BT-08)",
+      "price": 4500,
+      "description": "",
+      "stock": 5,
+      "collection": "New Hero",
+      "tags": ["digimon", "ingles", "booster box", "new hero"],
+      "img": [
+        "https://cardotaku.com/cdn/shop/products/912alxA3a8L._AC_SL1500.jpg?v=1637983647&width=800",
+        "https://cardotaku.com/cdn/shop/products/71CpALGz3_L._AC_SL1500.jpg?v=1637983666&width=700",
+        "https://cardotaku.com/cdn/shop/products/81jZC_uKIBL._AC_SL1500.jpg?v=1637983663&width=800"
+      ]
+      },
+      {
+      "id": 3008,
+      "name": "Digimon Card Game: Metal Wolf of Friendship Starter Pack (ST-16)",
+      "price": 4500,
+      "description": "",
+      "stock": 2,
+      "collection": "Metal Wolf of Friendship",
+      "tags": ["digimon", "ingles", "starter pack", "metal wolf of friendship"],
+      "img": [
+        "https://cardotaku.com/cdn/shop/files/71mKNP7CZGL._AC_SL1500.png?v=1684998491&width=800",
+        "https://en.digimoncard.com/images/cardlist/card/ST16-12.png"
+      ]
+      },
+      {
+      "id": 3009,
+      "name": "Digimon Card Game: Double Diamond Booster Box (BT-06)",
+      "price": 4500,
+      "description": "",
+      "stock": 0,
+      "collection": "Double Diamond",
+      "tags": ["digimon", "ingles", "booster box", "double diamond"],
+      "img": [
+        "https://cardotaku.com/cdn/shop/products/91_erhk3OKS._AC_SL1500.jpg?v=1630029852&width=800",
+        "https://cardotaku.com/cdn/shop/products/814Gj2n9BQS._AC_SL1500.jpg?v=1630029852&width=700"
+      ]
       }
   ],
   "magic": [
