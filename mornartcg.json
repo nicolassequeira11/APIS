@@ -136,6 +136,23 @@
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8153_699-86023_02.jpg",
         "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8153_699-86023_04.jpg"
       ]
+    },
+    {
+      "id": 11,
+      "name": "Pokémon TCG: 151 Ultra Premium Collection",
+      "price": 8000,
+      "description": "",
+      "stock": 2,
+      "collection": "151",
+      "tags": ["pokemon", "151", "ultra premium collection", "ingles"],
+      "img": [
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8975_290-85541_01.jpg",
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8975_290-85541_02.jpg",
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8975_290-85541_04.jpg",
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8975_290-85541_05.jpg",
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8975_290-85541_06.jpg",
+        "https://www.pokemoncenter.com/images/DAMRoot/High/10000/P8975_290-85541_08.jpg"
+      ]
     }
   ],
   "yugioh": [
