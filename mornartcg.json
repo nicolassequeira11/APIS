@@ -353,7 +353,33 @@
         "https://f.fcdn.app/imgs/6d3efe/www.xuruguay.com.uy/xuruuy/def7/webp/catalogo/8100597834618100597834611/460x460/digimon-card-game-booster-animal-colosseum-ingles-digimon-card-game-booster-animal-colosseum-ingles.jpg",
         "https://media.miniaturemarket.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/a/ban2705241-box_1.jpg"
       ]
-        }
+      },
+      {
+      "id": 3003,
+      "name": "Digimon Card Game: Reboot Rising Wind Booster Box [Inglés]",
+      "price": 4500,
+      "description": "",
+      "stock": 0,
+      "collection": "Rising Wind",
+      "tags": ["digimon", "ingles", "booster box", "rising wind"],
+      "img": [
+        "https://cardotaku.com/cdn/shop/products/81rBdkHgD0L._AC_SL1500.png?v=1674806156&width=800",
+        "https://cardotaku.com/cdn/shop/products/71c0ujm-ebL._AC_SL1500.png?v=1674806156&width=800"
+      ]
+      },
+      {
+      "id": 3004,
+      "name": "Digimon Card Game: War Dragon of Courage Starter Deck (ST-15) [Inglés]",
+      "price": 1600,
+      "description": "",
+      "stock": 3,
+      "collection": "War Dragon of Courage",
+      "tags": ["digimon", "ingles", "booster box", "war dragon of courage"],
+      "img": [
+        "https://cardotaku.com/cdn/shop/files/71p6fpXpA8L._AC_SL1500.png?v=1684998143&width=800",
+        "https://i.ebayimg.com/images/g/fZEAAOSwrnxkTTYJ/s-l1200.jpg"
+      ]
+      }
   ],
   "magic": [
       {
