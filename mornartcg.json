@@ -182,7 +182,7 @@
   "onepiece": [
       {
       "id": 2000,
-      "name": "One Piece: Premium Card Collection One Piece Red [Inglés]",
+      "name": "One Piece TCG: Premium Card Collection One Piece Red [Inglés]",
       "price": 3290,
       "description": "",
       "stock": 2,
@@ -195,7 +195,7 @@
       },
       {
       "id": 2001,
-      "name": "One Piece: Starter Deck ST-01 Straw Hat Crew [Inglés]",
+      "name": "One Piece TCG: Starter Deck ST-01 Straw Hat Crew [Inglés]",
       "price": 1190,
       "description": "",
       "stock": 2,
@@ -208,7 +208,7 @@
       },
       {
       "id": 2002,
-      "name": "One Piece: GC-01 Gift Collection 2023",
+      "name": "One Piece TCG: GC-01 Gift Collection 2023",
       "price": 2390,
       "description": "",
       "stock": 0,
@@ -221,7 +221,7 @@
       },
       {
       "id": 2003,
-      "name": "One Piece: Awakening of the New Era Booster Box (24 Packs)",
+      "name": "One Piece TCG: Awakening of the New Era Booster Box (24 Packs)",
       "price": 4500,
       "description": "",
       "stock": 10,
@@ -234,7 +234,7 @@
       },
       {
       "id": 2004,
-      "name": "One Piece: Starter Deck Worst Generation (ST-02)",
+      "name": "One Piece TCG: Starter Deck Worst Generation (ST-02)",
       "price": 800,
       "description": "",
       "stock": 10,
@@ -244,6 +244,19 @@
         "https://www.totalcards.net/media/simbeez_webp/catalog/product/cache/7635224f4fa597d4a3e42d3638e7f61a/w/o/worst-generation-one-piece-card-game-starter-deck-eng.webp",
         "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-001.png?240202"
         ]
+      },
+      {
+      "id": 2005,
+      "name": "One Piece TCG: Kingdoms of Intrigue Booster Pack Box (OP-04)",
+      "price": 4500,
+      "description": "",
+      "stock": 0,
+      "collection": "Kingdoms of Intrigue",
+      "tags": ["one piece", "booster box", "ingles"],
+      "img": [
+        "https://cardotaku.com/cdn/shop/products/61OZZZidWCL._AC_SL1200.png?v=1679465261&width=800",
+        "https://cardotaku.com/cdn/shop/products/81pEhtjSSVL._AC_SL1500.png?v=1690705490&width=800",
+        "https://cardotaku.com/cdn/shop/products/61UwkNeROvL._AC_SL1200.png?v=1690705490&width=800"        ]
       }
   ],
   "digimon": [
