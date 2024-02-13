@@ -154,15 +154,16 @@
       },
       {
       "id": 1001,
-      "name": "Yu-Gi-Oh! Baraja de Estructura: Reyes de Fuego",
-      "price": 1300,
+      "name": "Yu-Gi-Oh! Gold Rush Pack",
+      "price": 6000,
       "description": "",
-      "stock": 2,
-      "collection": "Fire Kings",
-      "tags": ["yugioh", "fire kings", "deck", "español"],
+      "stock": 1,
+      "collection": "Gold Rush",
+      "tags": ["yugioh", "gold rush", "japones"],
       "img": [
-        "https://img.yugioh-card.com/eu/wp-content/uploads/2023/08/SR14-Tuck-01-SP.webp",
-        "https://img.yugioh-card.com/eu/wp-content/uploads/2023/08/SR14-Tuck-02-SP.webp"
+        "https://cardotaku.com/cdn/shop/products/81V3DyqkRML._AC_SL1500.png?v=1657514275&width=800",
+        "https://cardotaku.com/cdn/shop/products/introduction-1.jpg?v=1657514275&width=600",
+        "https://cardotaku.com/cdn/shop/products/introduction-2d.jpg?v=1657514275&width=600"
       ]
       },
       {
