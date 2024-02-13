@@ -177,6 +177,58 @@
         "https://f.fcdn.app/imgs/a9ee65/www.xuruguay.com.uy/xuruuy/9f04/original/catalogo/0837178604330837178604331/1920-1200/yu-gi-oh-legendary-collection-25th-anniversary-edition-ingles-yu-gi-oh-legendary-collection-25th-anniversary-edition-ingles.jpg",
         "https://http2.mlstatic.com/D_Q_NP_840627-MLU72090447198_102023-O.webp"
       ]
+      },
+      {
+      "id": 1003,
+      "name": "Yu-Gi-Oh! Battle of Chaos Booster Box",
+      "price": 4500,
+      "description": "",
+      "stock": 0,
+      "collection": "Battle of Chaos",
+      "tags": ["yugioh", "battle of chaos", "booster box", "ingles"],
+      "img": [
+        "https://cardotaku.com/cdn/shop/products/91X6P7-3GAL._AC_SL1500.jpg?v=1636528949&width=800",
+        "https://img.yugioh-card.com/en/wp-content/uploads/2021/10/BACH_550-1.png"
+      ]
+      },
+      {
+      "id": 1004,
+      "name": "Yu-Gi-Oh! Phantom Rage Booster Box",
+      "price": 4500,
+      "description": "",
+      "stock": 10,
+      "collection": "Phantom Rage",
+      "tags": ["yugioh", "phantom rage", "booster box", "ingles"],
+      "img": [
+        "https://cardotaku.com/cdn/shop/products/71D3l5w8PmL._AC_SL1000.jpg?v=1639542322&width=800",
+        "https://m.media-amazon.com/images/I/81ggTdjcVKL._AC_UF894,1000_QL80_.jpg"
+      ]
+      },
+      {
+      "id": 1005,
+      "name": "Yu-Gi-Oh! Burst of Destiny Booster Box",
+      "price": 4500,
+      "description": "",
+      "stock": 2,
+      "collection": "Burst of Destiny",
+      "tags": ["yugioh", "Burst of Destiny", "booster box", "ingles"],
+      "img": [
+        "https://cardotaku.com/cdn/shop/products/91gns1yUMtS._AC_SL1500.jpg?v=1626679924&width=800",
+        "https://ms.yugipedia.com//4/4a/BODE-BoosterEN.png"
+      ]
+      },
+      {
+      "id": 1006,
+      "name": "Yu-Gi-Oh! Dimension Force Booster Box",
+      "price": 4500,
+      "description": "",
+      "stock": 0,
+      "collection": "Dimension Force",
+      "tags": ["yugioh", "dimension force", "booster box", "ingles"],
+      "img": [
+        "https://cardotaku.com/cdn/shop/products/71dVyr6_MwL._AC_SL1197.jpg?v=1642570578&width=800",
+        "https://static.wikia.nocookie.net/yugioh/images/8/8b/DIFO-BoosterEN.png/revision/latest?cb=20220515225742"
+      ]
       }
   ],
   "onepiece": [
