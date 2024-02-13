@@ -227,7 +227,46 @@
       "tags": ["yugioh", "dimension force", "booster box", "ingles"],
       "img": [
         "https://cardotaku.com/cdn/shop/products/71dVyr6_MwL._AC_SL1197.jpg?v=1642570578&width=800",
-        "https://static.wikia.nocookie.net/yugioh/images/8/8b/DIFO-BoosterEN.png/revision/latest?cb=20220515225742"
+        "https://f.fcdn.app/imgs/fc0e30/www.xuruguay.com.uy/xuruuy/9aa5/original/catalogo/0837178568010837178568011/1920-1200/booster-yu-gi-oh-dimension-force-ingles.jpg"
+      ]
+      },
+      {
+      "id": 1007,
+      "name": "Yu-Gi-Oh! Extreme Force Booster Box",
+      "price": 4500,
+      "description": "",
+      "stock": 9,
+      "collection": "Extreme Force",
+      "tags": ["yugioh", "extreme force", "booster box", "ingles"],
+      "img": [
+        "https://cardotaku.com/cdn/shop/products/71FP0UGVJrL._AC_SL1027.jpg?v=1630640874&width=800",
+        "https://static.wikia.nocookie.net/yugioh/images/0/0f/EXFO-BoosterEN.png/revision/latest?cb=20170921004142"
+      ]
+      },
+      {
+      "id": 1008,
+      "name": "Yu-Gi-Oh! Dawn of Majesty Booster Box",
+      "price": 4500,
+      "description": "",
+      "stock": 0,
+      "collection": "Dawn of Majesty",
+      "tags": ["yugioh", "dawn of majesty", "booster box", "ingles"],
+      "img": [
+        "https://cardotaku.com/cdn/shop/products/91r_oqM_Q8L._AC_SL1500.jpg?v=1618729974&width=800",
+        "https://product-images.tcgplayer.com/241143.jpg"
+      ]
+      },
+      {
+      "id": 1009,
+      "name": "Yu-Gi-Oh! Duelist of the Abyss Deck Build Pack",
+      "price": 2800,
+      "description": "",
+      "stock": 3,
+      "collection": "Duelist of the Abyss",
+      "tags": ["yugioh", "duelist of the abyss", "deck build pack", "ingles"],
+      "img": [
+        "https://cardotaku.com/cdn/shop/products/81h9ifkk9_L._AC_SL1500.jpg?v=1637560732&width=800",
+        "https://acecards.com/cdn/shop/products/Konami-Yu-Gi-Oh-OCG-Duelist-Pack-Duelists-of-the-Abyss-DP26-Japanese-Booster-Pack-Random-2_1024x1024.jpg?v=1637964044"
       ]
       }
   ],
