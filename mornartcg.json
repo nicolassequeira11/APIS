@@ -369,7 +369,7 @@
       },
       {
       "id": 3004,
-      "name": "Digimon Card Game: War Dragon of Courage Starter Deck (ST-15) [Inglés]",
+      "name": "Digimon Card Game: War Dragon of Courage Starter Deck (ST-15)",
       "price": 1600,
       "description": "",
       "stock": 3,
@@ -378,6 +378,33 @@
       "img": [
         "https://cardotaku.com/cdn/shop/files/71p6fpXpA8L._AC_SL1500.png?v=1684998143&width=800",
         "https://i.ebayimg.com/images/g/fZEAAOSwrnxkTTYJ/s-l1200.jpg"
+      ]
+      },
+      {
+      "id": 3005,
+      "name": "Digimon Card Game: Ultimate Power Booster Box (BT-02)",
+      "price": 4500,
+      "description": "",
+      "stock": 3,
+      "collection": "Ultimate Power",
+      "tags": ["digimon", "ingles", "booster box", "ultimate power"],
+      "img": [
+        "https://cardotaku.com/cdn/shop/products/91YSnCdkHNL._AC_SL1500.jpg?v=1595320650&width=800",
+        "https://cardotaku.com/cdn/shop/products/81_4PMBTizL._AC_SL1500.jpg?v=1595320654&width=700"
+      ]
+      },
+      {
+      "id": 3006,
+      "name": "Digimon Card Game: Exceed Apocalypse Booster Box (BT-15)",
+      "price": 4500,
+      "description": "",
+      "stock": 0,
+      "collection": "Exceed Apocalypse",
+      "tags": ["digimon", "ingles", "booster box", "exceed apocalypse"],
+      "img": [
+        "https://cardotaku.com/cdn/shop/files/91RbrvUm3cL._AC_SL1500.png?v=1695883901&width=800",
+        "https://cardotaku.com/cdn/shop/files/71Eu2SsDMAL._AC_SL1500.png?v=1695883901&width=800",
+        "https://cardotaku.com/cdn/shop/files/813ersz1-WL._AC_SL1500.png?v=1695883901&width=800"
       ]
       }
   ],
