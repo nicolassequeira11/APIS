@@ -211,13 +211,39 @@
       "name": "One Piece: GC-01 Gift Collection 2023",
       "price": 2390,
       "description": "",
-      "stock": 10,
+      "stock": 0,
       "collection": "Otros",
       "tags": ["one piece", "ingles"],
       "img": [
         "https://f.fcdn.app/imgs/4bb026/www.xuruguay.com.uy/xuruuy/df07/webp/catalogo/8100597820448100597820441/460x460/one-piece-gc-01-gift-collection-2023-one-piece-gc-01-gift-collection-2023.jpg",
         "https://f.fcdn.app/imgs/47821a/www.xuruguay.com.uy/xuruuy/88dc/webp/catalogo/8100597820448100597820442/460x460/one-piece-gc-01-gift-collection-2023-one-piece-gc-01-gift-collection-2023.jpg"
       ]
+      },
+      {
+      "id": 2003,
+      "name": "One Piece: Awakening of the New Era Booster Box (24 Packs)",
+      "price": 4500,
+      "description": "",
+      "stock": 10,
+      "collection": "Awakening of the New Era",
+      "tags": ["one piece", "awakening of the new era", "ingles"],
+      "img": [
+        "https://www.totalcards.net/media/simbeez_webp/catalog/product/cache/7635224f4fa597d4a3e42d3638e7f61a/a/w/awakening-the-new-era-booster-box.webp",
+        "https://www.totalcards.net/media/simbeez_webp/catalog/product/cache/7635224f4fa597d4a3e42d3638e7f61a/a/w/awakening-of-new-era-bp_1.webp"
+        ]
+      },
+      {
+      "id": 2004,
+      "name": "One Piece: Starter Deck Worst Generation (ST-02)",
+      "price": 800,
+      "description": "",
+      "stock": 10,
+      "collection": "Starter Deck",
+      "tags": ["one piece", "starter deck", "ingles"],
+      "img": [
+        "https://www.totalcards.net/media/simbeez_webp/catalog/product/cache/7635224f4fa597d4a3e42d3638e7f61a/w/o/worst-generation-one-piece-card-game-starter-deck-eng.webp",
+        "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-001.png?240202"
+        ]
       }
   ],
   "digimon": [
