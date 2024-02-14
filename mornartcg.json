@@ -758,6 +758,81 @@
         "https://f.fcdn.app/imgs/cdc89e/www.xuruguay.com.uy/xuruuy/baf2/webp/catalogo/1951662084731951662084731/460x460/march-of-the-machine-bundle-ingles-march-of-the-machine-bundle-ingles.jpg",
         "https://f.fcdn.app/imgs/760701/www.xuruguay.com.uy/xuruuy/aa13/webp/catalogo/1951662084731951662084732/460x460/march-of-the-machine-bundle-ingles-march-of-the-machine-bundle-ingles.jpg"
       ]
+      },
+      {
+      "id": 4007,
+      "name": "Magic Spellslinger Starter Kit (2 Decks) [Ingles]",
+      "price": 990,
+      "description": "",
+      "stock": 8,
+      "collection": "Starter Deck",
+        "type": "Decks",
+      "tags": ["magic", "ingles", "starter deck"],
+        "tcg": "magic",
+      "img": [
+        "https://f.fcdn.app/imgs/de5cb7/www.xuruguay.com.uy/xuruuy/d370/webp/catalogo/6305097410696305097410691/460x460/spellslinger-starter-kit-2-decks-ingles-spellslinger-starter-kit-2-decks-ingles.jpg",
+        "https://f.fcdn.app/imgs/86da98/www.xuruguay.com.uy/xuruuy/800a/webp/catalogo/6305097410696305097410692/460x460/spellslinger-starter-kit-2-decks-ingles-spellslinger-starter-kit-2-decks-ingles.jpg"
+      ]
+      },
+      {
+      "id": 4008,
+      "name": "Magic The Lord of the Rings: Tales of Middle-earth Holiday Scene Box Aragon [Ingles],
+      "price": 3490,
+      "description": "",
+      "stock": 2,
+      "collection": "The Lord of the Rings",
+        "type": "Booster Box",
+      "tags": ["magic", "ingles", "the lord of the rings"],
+        "tcg": "magic",
+      "img": [
+        "https://www.tiendalacomarca.cl/cdn/shop/files/MTGLTR_EN_HolidayScnBx_02_01_1024x1024.png?v=1695997841",
+        "https://f.fcdn.app/imgs/8fe9e3/www.xuruguay.com.uy/xuruuy/1954/webp/catalogo/195166207438ARAGORN195166207438ARAGORN2/460x460/the-lord-of-the-rings-tales-of-middle-earth-holiday-scene-box-aragon-ingles-the-lord-of-the-rings-tales-of-middle-earth-holiday-scene-box-aragon-ingles.jpg"
+      ]
+      },
+      {
+      "id": 4009,
+      "name": "Magic The Lord of the Rings: Tales of Middle-earth Holiday Scene Box Gandalf [Ingles],
+      "price": 3490,
+      "description": "",
+      "stock": 2,
+      "collection": "The Lord of the Rings",
+        "type": "Booster Box",
+      "tags": ["magic", "ingles", "the lord of the rings"],
+        "tcg": "magic",
+      "img": [
+        "https://hobbymaster.co.nz/ckfinder/userfiles/files/229718_4.jpg",
+        "https://f.fcdn.app/imgs/32c562/www.xuruguay.com.uy/xuruuy/10c1/webp/catalogo/195166207438GANDALF195166207438GANDALF2/460x460/the-lord-of-the-rings-tales-of-middle-earth-holiday-scene-box-gandalf-ingles-the-lord-of-the-rings-tales-of-middle-earth-holiday-scene-box-gandalf-ingles.jpg"
+      ]
+      },
+      {
+      "id": 4010,
+      "name": "Magic The Lord of the Rings: Tales of Middle-earth Holiday Scene Box Galadriel [Ingles],
+      "price": 3490,
+      "description": "",
+      "stock": 2,
+      "collection": "The Lord of the Rings",
+        "type": "Booster Box",
+      "tags": ["magic", "ingles", "the lord of the rings"],
+        "tcg": "magic",
+      "img": [
+        "https://cdn.shoplightspeed.com/shops/625017/files/55527456/image.jpg",
+        "https://f.fcdn.app/imgs/67aff1/www.xuruguay.com.uy/xuruuy/501f/webp/catalogo/195166207438GALADRIE195166207438GALADRIE2/460x460/the-lord-of-the-rings-tales-of-middle-earth-holiday-scene-box-galadriel-ingles-the-lord-of-the-rings-tales-of-middle-earth-holiday-scene-box-galadriel-ingles.jpg"
+      ]
+      },
+      {
+      "id": 4011,
+      "name": "Magic The Lord of the Rings: Tales of Middle-earth Holiday Scene Box Witch King [Ingles],
+      "price": 3490,
+      "description": "",
+      "stock": 2,
+      "collection": "The Lord of the Rings",
+        "type": "Booster Box",
+      "tags": ["magic", "ingles", "the lord of the rings"],
+        "tcg": "magic",
+      "img": [
+        "https://www.kraken.rs/wp-content/uploads/2023/11/Tales-of-Middle-Earth-EN-Holiday-Scene-Box-Flight-of-the-Witch-King.png",
+        "https://f.fcdn.app/imgs/2fa10e/www.xuruguay.com.uy/xuruuy/4cae/webp/catalogo/195166207438WITCH195166207438WITCH2/460x460/the-lord-of-the-rings-tales-of-middle-earth-holiday-scene-box-witch-king-ingles-the-lord-of-the-rings-tales-of-middle-earth-holiday-scene-box-witch-king-ingles.jpg"
+      ]
       }
   ],
   "fleshandblood": [
