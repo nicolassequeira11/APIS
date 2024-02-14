@@ -838,17 +838,17 @@
   "fleshandblood": [
       {
       "id": 5000,
-      "name": "Flesh and Blood: Outsiders - Blitz Deck",
+      "name": "Flesh and Blood: Outsiders Blitz Deck - Arakni",
       "price": 1200,
       "description": "",
       "stock": 2,
-      "collection": "Phyrexia All Will Be One",
+      "collection": "Outsiders",
         "type": "Deck",
       "tags": ["flesh and blood", "ingles", "deck", "outsiders"],
         "tcg": "fleshandblood",
       "img": [
         "https://thirstymeeples.co.uk/cdn/shop/products/FleshAndBloodTCGOutsidersBlitzDeck_1_2000x.png?v=1679079300",
-        "https://thirstymeeples.co.uk/cdn/shop/products/FleshAndBloodTCGOutsidersBlitzDeck_1_2000x.png?v=1679079300"
+        "https://cdn.cardsrealm.com/images/cartas/out-outsiders/EN/med/arakni-solitary-confinement-out003.png?3093?&width=250"
       ]
         },
       {
@@ -903,7 +903,7 @@
       "description": "",
       "stock": 3,
       "collection": "Bright Lights",
-        "type": "Deck",
+        "type": "Booster Box",
       "tags": ["flesh and blood"],
         "tcg": "fleshandblood",
       "img": [
@@ -939,6 +939,66 @@
       "img": [
         "https://cdn11.bigcommerce.com/s-3b5vpig99v/images/stencil/1280x1280/products/562751/985376/ClassicBattleRhinarVsDorinthea__31080.1650898901.jpg?c=2",
         "https://www.phdgames.com/wp-content/uploads/2022/03/FleshandBlood_ClassicBattles_RhinarvsDorinthea_02_card-samples.jpg"
+      ]
+      },
+      {
+      "id": 5007,
+      "name": "Flesh and Blood: History Pack 1 Booster Box",
+      "price": 5000,
+      "description": "",
+      "stock": 5,
+      "collection": "Otros",
+        "type": "Booster Box",
+      "tags": ["flesh and blood"],
+        "tcg": "fleshandblood",
+      "img": [
+        "https://cdn11.bigcommerce.com/s-3b5vpig99v/images/stencil/1280x1280/products/562563/985090/fab-1hp-booster-box__09876.1650555629.jpg?c=2",
+        "https://cdn11.bigcommerce.com/s-3b5vpig99v/images/stencil/1280x1280/products/562670/985210/fab-1hp-booster-pack__71202.1650633741.jpg?c=2"
+      ]
+      },
+      {
+      "id": 5008,
+      "name": "Flesh and Blood: History Pack 1 Booster Box",
+      "price": 5000,
+      "description": "",
+      "stock": 5,
+      "collection": "Otros",
+        "type": "Booster Box",
+      "tags": ["flesh and blood"],
+        "tcg": "fleshandblood",
+      "img": [
+        "https://cdn11.bigcommerce.com/s-3b5vpig99v/images/stencil/1280x1280/products/562563/985090/fab-1hp-booster-box__09876.1650555629.jpg?c=2",
+        "https://cdn11.bigcommerce.com/s-3b5vpig99v/images/stencil/1280x1280/products/562670/985210/fab-1hp-booster-pack__71202.1650633741.jpg?c=2"
+      ]
+      },
+      {
+      "id": 5009,
+      "name": "Flesh and Blood: Outsiders Blitz Deck - Katsu,
+      "price": 1400,
+      "description": "",
+      "stock": 5,
+      "collection": "Outsiders",
+        "type": "Deck",
+      "tags": ["flesh and blood"],
+        "tcg": "fleshandblood",
+      "img": [
+        "https://cdn11.bigcommerce.com/s-3b5vpig99v/images/stencil/1280x1280/products/593726/1162986/out-blitz-katsu__87174.1680294380.jpg?c=2",
+        "https://d2h5owxb2ypf43.cloudfront.net/cards/OUT046.width-450.webp"
+      ]
+      },
+      {
+      "id": 5010,
+      "name": "Flesh and Blood: Outsiders Blitz Deck - Uzuri,
+      "price": 1400,
+      "description": "",
+      "stock": 2,
+      "collection": "Outsiders",
+        "type": "Deck",
+      "tags": ["flesh and blood"],
+        "tcg": "fleshandblood",
+      "img": [
+        "https://cdn11.bigcommerce.com/s-3b5vpig99v/images/stencil/1280x1280/products/593728/1162990/out-blitz-uzuri__28148.1680294880.jpg?c=2",
+        "https://cdn.cardsrealm.com/images/cartas/out-outsiders/EN/med/uzuri-out002.png?6913?&width=250"
       ]
       }
   ]
