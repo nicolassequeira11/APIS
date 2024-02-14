@@ -958,21 +958,6 @@
       },
       {
       "id": 5008,
-      "name": "Flesh and Blood: History Pack 1 Booster Box",
-      "price": 5000,
-      "description": "",
-      "stock": 5,
-      "collection": "Otros",
-        "type": "Booster Box",
-      "tags": ["flesh and blood"],
-        "tcg": "fleshandblood",
-      "img": [
-        "https://cdn11.bigcommerce.com/s-3b5vpig99v/images/stencil/1280x1280/products/562563/985090/fab-1hp-booster-box__09876.1650555629.jpg?c=2",
-        "https://cdn11.bigcommerce.com/s-3b5vpig99v/images/stencil/1280x1280/products/562670/985210/fab-1hp-booster-pack__71202.1650633741.jpg?c=2"
-      ]
-      },
-      {
-      "id": 5009,
       "name": "Flesh and Blood: Outsiders Blitz Deck - Katsu",
       "price": 1400,
       "description": "",
@@ -987,7 +972,7 @@
       ]
       },
       {
-      "id": 5010,
+      "id": 5009,
       "name": "Flesh and Blood: Outsiders Blitz Deck - Uzuri",
       "price": 1400,
       "description": "",
