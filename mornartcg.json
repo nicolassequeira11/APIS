@@ -295,7 +295,7 @@
         "tcg": "yugioh",
       "img": [
         "https://cardotaku.com/cdn/shop/products/71FP0UGVJrL._AC_SL1027.jpg?v=1630640874&width=800",
-        "https://static.wikia.nocookie.net/yugioh/images/0/0f/EXFO-BoosterEN.png/revision/latest?cb=20170921004142"
+        "https://ms.yugipedia.com//thumb/0/0f/EXFO-BoosterEN.png/257px-EXFO-BoosterEN.png"
       ]
       },
       {
@@ -874,12 +874,72 @@
       "stock": 10,
       "collection": "Welcome To Rathe",
         "type": "Booster",
-      "tags": ["magic", "ingles", "booster pack", "welcome to rathe"],
+      "tags": ["flesh and blood"],
         "tcg": "fleshandblood",
       "img": [
         "https://mornarstore.com/img/p/1/1/8/4/1184-large_default.jpg",
         "https://mornarstore.com/img/p/1/1/8/3/1183-large_default.jpg"
       ]
-        }
+        },
+      {
+      "id": 5003,
+      "name": "Flesh and Blood: Uprising Blitz Deck - Dromai",
+      "price": 1400,
+      "description": "",
+      "stock": 1,
+      "collection": "Uprising",
+        "type": "Deck",
+      "tags": ["flesh and blood"],
+        "tcg": "fleshandblood",
+      "img": [
+        "https://cdn11.bigcommerce.com/s-3b5vpig99v/images/stencil/1280x1280/products/569577/1077497/blitz-deck-dromai__03863.1653423134.jpg?c=2",
+        "https://product-images.tcgplayer.com/276811.jpg"
+      ]
+      },
+      {
+      "id": 5004,
+      "name": "Flesh and Blood: Bright Lights Booster Box",
+      "price": 4500,
+      "description": "",
+      "stock": 3,
+      "collection": "Bright Lights",
+        "type": "Deck",
+      "tags": ["flesh and blood"],
+        "tcg": "fleshandblood",
+      "img": [
+        "https://cdn11.bigcommerce.com/s-3b5vpig99v/images/stencil/1280x1280/products/612018/1259399/evo-booster-box__09220.1694720480.jpg?c=2",
+        "https://pelikrypta.fi/cdn/shop/files/en_evo_mock_boosterpack_01.width-10000.png?v=1696274072"
+      ]
+      },
+      {
+      "id": 5005,
+      "name": "Flesh and Blood: Heavy Hitters Blitz Deck - Kayo",
+      "price": 1400,
+      "description": "",
+      "stock": 3,
+      "collection": "Heavy Hitters",
+        "type": "Deck",
+      "tags": ["flesh and blood"],
+        "tcg": "fleshandblood",
+      "img": [
+        "https://cdn11.bigcommerce.com/s-3b5vpig99v/images/stencil/1280x1280/products/619853/1350385/hvy-blitz-deck-kayo__54742.1704914663.png?c=2",
+        "https://dhhim4ltzu1pj.cloudfront.net/media/images/HVY002.width-300.format-webp.webp"
+      ]
+      },
+      {
+      "id": 5006,
+      "name": "Flesh and Blood: Classic Battles - Rhinar vs Dorinthea",
+      "price": 2800,
+      "description": "",
+      "stock": 3,
+      "collection": "Classic Battles",
+        "type": "Deck",
+      "tags": ["flesh and blood"],
+        "tcg": "fleshandblood",
+      "img": [
+        "https://cdn11.bigcommerce.com/s-3b5vpig99v/images/stencil/1280x1280/products/562751/985376/ClassicBattleRhinarVsDorinthea__31080.1650898901.jpg?c=2",
+        "https://www.phdgames.com/wp-content/uploads/2022/03/FleshandBlood_ClassicBattles_RhinarvsDorinthea_02_card-samples.jpg"
+      ]
+      }
   ]
 }
