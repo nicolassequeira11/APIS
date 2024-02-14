@@ -698,7 +698,37 @@
         "https://f.fcdn.app/imgs/e60c81/www.xuruguay.com.uy/xuruuy/009e/webp/catalogo/6305099828686305099828681/460x460/set-booster-adventures-in-the-forgotten-realms-ingles-set-booster-adventures-in-the-forgotten-realms-ingles.jpg",
         "https://f.fcdn.app/imgs/50bac3/www.xuruguay.com.uy/xuruuy/6dcf/webp/catalogo/6305099828686305099828682/460x460/set-booster-adventures-in-the-forgotten-realms-ingles-set-booster-adventures-in-the-forgotten-realms-ingles.jpg"
       ]
-        }
+      },
+      {
+      "id": 4003,
+      "name": "Magic Streets of New Capenna: Commander Bedecked Brokers [Ingles]",
+      "price": 3690,
+      "description": "",
+      "stock": 3,
+      "collection": "Streets of New Capenna",
+        "type": "Commander",
+      "tags": ["magic", "ingles", "streets of new capenna"],
+        "tcg": "magic",
+      "img": [
+        "https://f.fcdn.app/imgs/783a02/www.xuruguay.com.uy/xuruuy/06c8/webp/catalogo/1951661214681951661214681/460x460/streets-of-new-capenna-commander-bedecked-brokers-ingles-streets-of-new-capenna-commander-bedecked-brokers-ingles.jpg",
+        "https://f.fcdn.app/imgs/f4b42d/www.xuruguay.com.uy/xuruuy/c4d6/webp/catalogo/1951661214681951661214682/460x460/streets-of-new-capenna-commander-bedecked-brokers-ingles-streets-of-new-capenna-commander-bedecked-brokers-ingles.jpg"
+      ]
+      },
+      {
+      "id": 4004,
+      "name": "Magic The Lost Caverns of Ixalan: Ahoy Mateys - Commander Deck [Ingles]",
+      "price": 3990,
+      "description": "",
+      "stock": 3,
+      "collection": "The Lost Caverns of Ixalan",
+        "type": "Commander",
+      "tags": ["magic", "ingles", "the lost caverns of ixalan"],
+        "tcg": "magic",
+      "img": [
+        "https://www.redqueen.mx/cdn/shop/files/2_24cb23cf-618b-47be-9640-d14e80a9c932_869x869.jpg?v=1699395641",
+        "https://www.redqueen.mx/cdn/shop/files/2_cdd43a4e-b447-4740-9c88-646ff443a9e6_869x869.jpg?v=1699395641"
+      ]
+      }
   ],
   "fleshandblood": [
       {
