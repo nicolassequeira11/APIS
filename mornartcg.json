@@ -636,6 +636,21 @@
         "https://cardotaku.com/cdn/shop/products/91_erhk3OKS._AC_SL1500.jpg?v=1630029852&width=800",
         "https://cardotaku.com/cdn/shop/products/814Gj2n9BQS._AC_SL1500.jpg?v=1630029852&width=700"
       ]
+      },
+      {
+      "id": 3010,
+      "name": "Digimon Card Game: Beginning Observer Booster Box (BT-16)",
+      "price": 4500,
+      "description": "",
+      "stock": 10,
+      "collection": "Beginning Observer",
+        "type": "Booster Box",
+      "tags": ["digimon", "ingles", "booster box", "beginning observer"],
+        "tcg": "digimon",
+      "img": [
+        "https://cardotaku.com/cdn/shop/files/digimon-card-game-bt-16-beginning-observer-box.png?v=1703069313&width=800",
+        "https://cardotaku.com/cdn/shop/files/digimon-card-game-bt-16-beginning-observer-booster.png?v=1703069315&width=800"
+      ]
       }
   ],
   "magic": [
