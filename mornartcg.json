@@ -728,6 +728,36 @@
         "https://www.redqueen.mx/cdn/shop/files/2_24cb23cf-618b-47be-9640-d14e80a9c932_869x869.jpg?v=1699395641",
         "https://www.redqueen.mx/cdn/shop/files/2_cdd43a4e-b447-4740-9c88-646ff443a9e6_869x869.jpg?v=1699395641"
       ]
+      },
+      {
+      "id": 4005,
+      "name": "Magic Dominaria United Draft Booster [Ingles]",
+      "price": 380,
+      "description": "",
+      "stock": 3,
+      "collection": "Dominaria United",
+        "type": "Booster",
+      "tags": ["magic", "ingles", "dominaria united"],
+        "tcg": "magic",
+      "img": [
+        "https://f.fcdn.app/imgs/adcf68/www.xuruguay.com.uy/xuruuy/9eb2/webp/catalogo/1951661285351951661285351/460x460/dominaria-united-draft-booster-ingles-dominaria-united-draft-booster-ingles.jpg",
+        "https://f.fcdn.app/imgs/7df6d9/www.xuruguay.com.uy/xuruuy/3f94/webp/catalogo/1951661285351951661285352/460x460/dominaria-united-draft-booster-ingles-dominaria-united-draft-booster-ingles.jpg"
+      ]
+      },
+      {
+      "id": 4006,
+      "name": "Magic March of the Machine - Bundle [Ingles]",
+      "price": 3690,
+      "description": "",
+      "stock": 3,
+      "collection": "March of the Machine",
+        "type": "Bundle",
+      "tags": ["magic", "ingles", "march of the machine"],
+        "tcg": "magic",
+      "img": [
+        "https://f.fcdn.app/imgs/cdc89e/www.xuruguay.com.uy/xuruuy/baf2/webp/catalogo/1951662084731951662084731/460x460/march-of-the-machine-bundle-ingles-march-of-the-machine-bundle-ingles.jpg",
+        "https://f.fcdn.app/imgs/760701/www.xuruguay.com.uy/xuruuy/aa13/webp/catalogo/1951662084731951662084732/460x460/march-of-the-machine-bundle-ingles-march-of-the-machine-bundle-ingles.jpg"
+      ]
       }
   ],
   "fleshandblood": [
